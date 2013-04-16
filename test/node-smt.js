@@ -6,12 +6,18 @@ describe('Node SMT', function () {
   var smtObject;
 
   before(function () {
-    smtObject = smt.init();
+    smtObject = smt.init('127.0.0.1');
   });
 
   describe('Version check', function () {
     it ('should return 0.0.1', function () {
       smt.version.should.equal('0.0.1');
+    });
+  });
+
+  describe('Cannot create without ipAddress', function () {
+    it ('should throw error', function () {
+      (function () { smt.init(); }).should.throwError(/You must provide an ipAddress/);
     });
   });
 
