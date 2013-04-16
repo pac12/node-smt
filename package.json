@@ -1,0 +1,34 @@
+{
+  "name": "node-smt",
+  "version": "0.0.1",
+  "description": "A wrapper for the SMT League Wide Scores XML Feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pac12/node-smt.git"
+  },
+  "keywords": [
+    "smt",
+    "sportsmedia technology",
+    "league wide scores",
+    "xml"
+  ],
+  "author": "PAC-12 <support@pac-12.com>",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Nicholas Calugar",
+      "email": "ncalugar@pac-12.org"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "should": "~1.2.2"
+  }
+}
