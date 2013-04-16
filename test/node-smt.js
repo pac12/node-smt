@@ -18,7 +18,7 @@ describe('Node SMT', function () {
   describe('Can create a smt object', function () {
    it ('should return an smt object', function () {
      smtObject.should.be.a('object');
-     smtObject.should.be.an.instanceOf(Smt);
+     smtObject.should.be.an.instanceOf(smt.Smt);
    });
 
    it ('should have a getLeagueList function', function () {
