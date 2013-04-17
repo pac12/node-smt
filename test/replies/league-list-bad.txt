@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LeagueList>
+<LeagueList
 	<LeagueListEntry LeagueId="NCAAB" Sport="BASKETBALL" />
 	<LeagueListEntry LeagueId="NCAABASE" Sport="BASEBALL" />
 	<LeagueListEntry LeagueId="NCAAF" Sport="FOOTBALL" />
@@ -26,5 +26,5 @@
 	<LeagueListEntry LeagueId="MNCAAMWP" Sport="GENERIC" />
 	<LeagueListEntry LeagueId="MNCAAWWP" Sport="GENERIC" />
 	<LeagueListEntry LeagueId="TEST" Sport="GENERIC" />
-	<LeagueListEntry LeagueId="TEST2" Sport="GENERIC" />
-</LeagueList>
+	<LeagueListEntry LeagueId=EST2" Sport="GENERIC" />
+</LeagueList
