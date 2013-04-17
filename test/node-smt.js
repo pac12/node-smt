@@ -48,5 +48,25 @@ describe('Node SMT', function () {
    });
   });
 
+  describe('Object creates correct base url', function () {
+    it ('should default to port 80', function () {
+      var smtObject = smt.init('127.0.0.1');
+      smtObject.getHttpOptions().hostname.should.equal('127.0.0.1');
+      smtObject.getHttpOptions().port.should.equal(80);
+    });
+
+    it ('should default to port 80 when port not numeric', function () {
+      var smtObject = smt.init('127.0.0.1', 'not a number');
+      smtObject.getHttpOptions().hostname.should.equal('127.0.0.1');
+      smtObject.getHttpOptions().port.should.equal(80);
+    });
+
+    it ('should allow override of port', function () {
+      var smtObject = smt.init('127.0.0.1', 8080);
+      smtObject.getHttpOptions().hostname.should.equal('127.0.0.1');
+      smtObject.getHttpOptions().port.should.equal(8080);
+    });
+  });
+
 });
 

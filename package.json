@@ -4,7 +4,7 @@
   "description": "A wrapper for the SMT League Wide Scores XML Feed",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R spec test/*"
+    "test": "mocha -R spec"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   },
   "devDependencies": {
     "mocha": "~1.9.0",
-    "should": "~1.2.2"
+    "should": "~1.2.2",
+    "nock": "~0.17.3"
   }
 }
