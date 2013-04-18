@@ -61,7 +61,7 @@ describe('DailySchedule', function () {
     });
 
     it ('should pass error and no result with bad xml', function (done) {
-      smtObject.getDailySchedule({}, function (err, result) {
+      smtObject.getDailySchedule({LeagueId: 'TEST'}, function (err, result) {
         err.should.match(/Parse error/);
         should.not.exist(result);
         done();
@@ -69,7 +69,7 @@ describe('DailySchedule', function () {
     });
 
     it ('should pass error and no result on 404', function (done) {
-      smtObject.getDailySchedule({}, function (err, result) {
+      smtObject.getDailySchedule({LeagueId: 'BLAH'}, function (err, result) {
         err.should.match(/HTTP 404/);
         should.not.exist(result);
         done();
