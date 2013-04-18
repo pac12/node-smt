@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameScores LeagueId="NCAABASE" Sport="BASEBALL" Date="2013-04-10">
+	<Game GlobalGameId="NCAABASE_AZST_UNLV_20130410_1" LeagueId="NCAABASE" AwaySMTId="AZST" HomeSMTId="UNLV" GameNum="1" StartDate="2013-04-10" StartTime="9:05 PM">
+		<GameContext AwayScore="0" HomeScore="0" Inning="0" InningPart="Top" GameStatus="Scheduled" AwayHits="0" HomeHits="0" AwayErrors="0" HomeErrors="0" Balls="0" Strikes="0" Outs="0" RunnerOnFirst="False" RunnerOnSecond="False" RunnerOnThird="False" />
+	</Game>
+</GameScores>

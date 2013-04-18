@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DailySchedule LeagueId="NCAABASE" Sport="BASEBALL" Date="2013-04-10">
+	<Game GlobalGameId="NCAABASE_AZST_UNLV_20130410_1" LeagueId="NCAABASE" AwaySMTId="AZST" HomeSMTId="UNLV" GameNum="1" StartDate="2013-04-10" StartTime="9:05 PM" SeasonSegment="(none)">
+		<Team AwayHome="A" SMTId="AZST" DisplayName="ARIZONA ST" City="ARIZONA STATE" Mascot="SUN DEVILS" Rank="" Wins="" Losses="" />
+		<Team AwayHome="H" SMTId="UNLV" DisplayName="UNLV" City="UNLV" Mascot="RUNNIN&#39; REBELS" Rank="" Wins="" Losses="" />
+		<PitcherStarter AwayHome="A" TeamSMTId="AZST" FirstName="" LastName="" Wins="" Losses="" ERA="" />
+		<PitcherStarter AwayHome="H" TeamSMTId="UNLV" FirstName="" LastName="" Wins="" Losses="" ERA="" />
+	</Game>
+</DailySchedule>
