@@ -36,6 +36,14 @@ describe('DailySchedule', function () {
         .replyWithFile(404, __dirname + '/replies/404.txt');
     });
 
+    it ('should pass error and no result to callback when no LeagueId given', function (done) {
+      smtObject.getTeamIdList({}, function (err, result) {
+        err.should.match(/LeagueId is a required parameter/);
+        should.not.exist(result);
+        done();
+      });
+    });
+
     it ('should pass no error and a daily schedule as result on 200', function (done) {
       smtObject.getDailySchedule({LeagueId: 'NCAAF', Date: '2013-09-14', Conference: 'PAC12'}, function (err, result) {
         should.not.exist(err);
