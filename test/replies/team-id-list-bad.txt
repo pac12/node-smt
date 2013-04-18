@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TeamIdList LeagueId="NCAAF" Sport="FOOTBALL"
+	<TeamIdListEntry SMTId="ADMST" DisplayName="ADAMS ST" />
+	<TeamIdListEntry SMTId="AF" DisplayName="AIR FORCE" />
+	<TeamIdListEntry SMTId="AKRN" DisplayName="AKRON" />
+	<TeamIdListEntry SMTId="ALA" DisplayName="ALABAMA" />
+	<TeamIdListEntry SMTId="ALAM" DisplayName="ALABAMA A&amp;amp;M" />
+	<TeamIdListEntry SMTId="ALAST" DisplayName="ALABAMA ST" />
+	<TeamIdListEntry SMTId="ALB" DisplayName="ALBANY" />
+	<TeamIdListEntry SMTId="ALCST" DisplayName="ALCORN ST" />
+	<TeamIdListEntry SMTId="ANGL" DisplayName="ANGELO ST" />
+	<TeamIdListEntry SMTId="APPST" DisplayName="APPALACHIAN ST" />
+	<TeamIdListEntry SMTId="ARIZ" DisplayName="ARIZONA" />
+	<TeamIdListEntry SMTId="ARK" DisplayName="ARKANSAS" />
+	<TeamIdListEntry SMTId="ARKM" DisplayName="ARK MONTICELLO" />
+	<TeamIdListEntry SMTId="ARKPB" DisplayName="ARK PINE BLUFF" />
+	<TeamIdListEntry SMTId="ARKST" DisplayName="ARKANSAS STATE" />
+	<TeamIdListEntry SMTId="ARMY" DisplayName="ARMY" />
+	<TeamIdListEntry SMTId="ASSUM" DisplayName="ASSUMPTION" />
+	<TeamIdListEntry SMTId="AUB" DisplayName="AUBURN" />
+	<TeamIdListEntry SMTId="AUSP" DisplayName="AUSTIN PEAY" />
+	<TeamIdListEntry SMTId="AZST" DisplayName="ARIZONA ST" />
+	<TeamIdListEntry SMTId="BALL" DisplayName="BALL ST" />
+	<TeamIdListEntry SMTId="BAY" DisplayName="BAYLOR" />
+	<TeamIdListEntry SMTId="BC" DisplayName="BOSTON COLLEGE" />
+	<TeamIdListEntry SMTId="BETHC" DisplayName="BETHUNE-COOKMAN" />
+	<TeamIdListEntry SMTId="BG" DisplayName="BOWLING GREEN" />
+	<TeamIdListEntry SMTId="BMHS" DisplayName="BIRMINGHAM SOU" />
+	<TeamIdListEntry SMTId="BRWN" DisplayName="BROWN" />
+	<TeamIdListEntry SMTId="BRY" DisplayName="BRYANT" />
+	<TeamIdListEntry SMTId="BSU" DisplayName="BOISE ST" />
+	<TeamIdListEntry SMTId="BUCK" DisplayName="BUCKNELL" />
+	<TeamIdListEntry SMTId="BUFF" DisplayName="BUFFALO" />
+	<TeamIdListEntry SMTId="BUT" DisplayName="BUTLER" />
+	<TeamIdListEntry SMTId="BYU" DisplayName="BYU" />
+	<TeamIdListEntry SMTId="CAL" DisplayName="CALIFORNIA" />
+	<TeamIdListEntry SMTId="CALPY" DisplayName="CAL POLY" />
+	<TeamIdListEntry SMTId="CAMP" DisplayName="CAMPBELL" />
+	<TeamIdListEntry SMTId="CARK" DisplayName="CENTRAL ARK" />
+	<TeamIdListEntry SMTId="CCDAL" DisplayName="CONCORDIA (AL)" />
+	<TeamIdListEntry SMTId="CCONN" DisplayName="CENTRAL CONN" />
+	<TeamIdListEntry SMTId="CHATT" DisplayName="CHATTANOOGA" />
+	<TeamIdListEntry SMTId="CHSOU" DisplayName="CHARLESTON SOU" />
+	<TeamIdListEntry SMTId="CIN" DisplayName="CINCINNATI" />
+	<TeamIdListEntry SMTId="CIT" DisplayName="THE CITADEL" />
+	<TeamIdListEntry SMTId="CLEM" DisplayName="CLEMSON" />
+	<TeamIdListEntry SMTId="CMICH" DisplayName="CENTRAL MICHIGAN" />
+	<TeamIdListEntry SMTId="CNSTO" DisplayName="CENTRAL ST (OH)" />
+	<TeamIdListEntry SMTId="COL" DisplayName="COLORADO" />
+	<TeamIdListEntry SMTId="COLG" DisplayName="COLGATE" />
+	<TeamIdListEntry SMTId="COLUM" DisplayName="COLUMBIA" />
+	<TeamIdListEntry SMTId="CONN" DisplayName="CONNECTICUT" />
+	<TeamIdListEntry SMTId="CORN" DisplayName="CORNELL" />
+	<TeamIdListEntry SMTId="CSCAR" DisplayName="COASTAL CAROLINA" />
+	<TeamIdListEntry SMTId="CSU" DisplayName="COLORADO ST" />
+	<TeamIdListEntry SMTId="DART" DisplayName="DARTMOUTH" />
+	<TeamIdListEntry SMTId="DAVID" DisplayName="DAVIDSON" />
+	<TeamIdListEntry SMTId="DAYT" DisplayName="DAYTON" />
+	<TeamIdListEntry SMTId="DEL" DisplayName="DELAWARE" />
+	<TeamIdListEntry SMTId="DELST" DisplayName="DELAWARE ST" />
+	<TeamIdListEntry SMTId="DIXST" DisplayName="DIXIE STATE" />
+	<TeamIdListEntry SMTId="DRAKE" DisplayName="DRAKE" />
+	<TeamIdListEntry SMTId="DUKE" DisplayName="DUKE" />
+	<TeamIdListEntry SMTId="DUQ" DisplayName="DUQUESNE" />
+	<TeamIdListEntry SMTId="EAST" DisplayName="EAST" />
+	<TeamIdListEntry SMTId="ECU" DisplayName="EAST CAROLINA" />
+	<TeamIdListEntry SMTId="EILL" DisplayName="EASTERN ILLINOIS" />
+	<TeamIdListEntry SMTId="EKY" DisplayName="EASTERN KENTUCKY" />
+	<TeamIdListEntry SMTId="ELON" DisplayName="ELON" />
+	<TeamIdListEntry SMTId="EMICH" DisplayName="EASTERN MICHIGAN" />
+	<TeamIdListEntry SMTId="EWASH" DisplayName="EASTERN WASH" />
+	<TeamIdListEntry SMTId="FAMU" DisplayName="FLORIDA A&amp;amp;M" />
+	<TeamIdListEntry SMTId="FLA" DisplayName="FLORIDA" />
+	<TeamIdListEntry SMTId="FLAST" DisplayName="FLORIDA STATE" />
+	<TeamIdListEntry SMTId="FLATL" DisplayName="FAU" />
+	<TeamIdListEntry SMTId="FLINT" DisplayName="FIU" />
+	<TeamIdListEntry SMTId="FORD" DisplayName="FORDHAM" />
+	<TeamIdListEntry SMTId="FRES" DisplayName="FRESNO ST" />
+	<TeamIdListEntry SMTId="FURM" DisplayName="FURMAN" />
+	<TeamIdListEntry SMTId="FYVST" DisplayName="FAYETTEVILLE ST" />
+	<TeamIdListEntry SMTId="GASOU" DisplayName="GA SOUTHERN" />
+	<TeamIdListEntry SMTId="GDWEB" DisplayName="GARDNER-WEBB" />
+	<TeamIdListEntry SMTId="GRAMB" DisplayName="GRAMBLING" />
+	<TeamIdListEntry SMTId="GT" DisplayName="GEORGIA TECH" />
+	<TeamIdListEntry SMTId="GTWN" DisplayName="GEORGETOWN" />
+	<TeamIdListEntry SMTId="HAMPT" DisplayName="HAMPTON" />
+	<TeamIdListEntry SMTId="HARV" DisplayName="HARVARD" />
+	<TeamIdListEntry SMTId="HAW" DisplayName="HAWAII" />
+	<TeamIdListEntry SMTId="HC" DisplayName="HOLY CROSS" />
+	<TeamIdListEntry SMTId="HMBST" DisplayName="HUMBOLDT ST" />
+	<TeamIdListEntry SMTId="HOFS" DisplayName="HOFSTRA" />
+	<TeamIdListEntry SMTId="HOU" DisplayName="HOUSTON" />
+	<TeamIdListEntry SMTId="HOWRD" DisplayName="HOWARD" />
+	<TeamIdListEntry SMTId="HULAE" DisplayName="HULA BOWL EAST" />
+	<TeamIdListEntry SMTId="HULAW" DisplayName="HULA BOWL WEST" />
+	<TeamIdListEntry SMTId="IAST" DisplayName="IOWA ST" />
+	<TeamIdListEntry SMTId="IDAHO" DisplayName="IDAHO" />
+	<TeamIdListEntry SMTId="IDAST" DisplayName="IDAHO ST" />
+	<TeamIdListEntry SMTId="ILL" DisplayName="ILLINOIS" />
+	<TeamIdListEntry SMTId="ILLST" DisplayName="ILLINOIS ST" />
+	<TeamIdListEntry SMTId="IND" DisplayName="INDIANA" />
+	<TeamIdListEntry SMTId="INDST" DisplayName="INDIANA ST" />
+	<TeamIdListEntry SMTId="IONA" DisplayName="IONA" />
+	<TeamIdListEntry SMTId="IOWA" DisplayName="IOWA" />
+	<TeamIdListEntry SMTId="JAX" DisplayName="JACKSONVILLE" />
+	<TeamIdListEntry SMTId="JAXST" DisplayName="JACKSONVILLE ST" />
+	<TeamIdListEntry SMTId="JCKST" DisplayName="JACKSON ST" />
+	<TeamIdListEntry SMTId="JCS" DisplayName="JOHNSON SMITH" />
+	<TeamIdListEntry SMTId="JMU" DisplayName="JAMES MADISON" />
+	<TeamIdListEntry SMTId="KAN" DisplayName="KANSAS" />
+	<TeamIdListEntry SMTId="KEN" DisplayName="KENTUCKY" />
+	<TeamIdListEntry SMTId="KSST" DisplayName="KANSAS ST" />
+	<TeamIdListEntry SMTId="KTST" DisplayName="KENT ST" />
+	<TeamIdListEntry SMTId="LAF" DisplayName="LAFAYETTE" />
+	<TeamIdListEntry SMTId="LANG" DisplayName="LANGSTON" />
+	<TeamIdListEntry SMTId="LASAL" DisplayName="LA SALLE" />
+	<TeamIdListEntry SMTId="LHIGH" DisplayName="LEHIGH" />
+	<TeamIdListEntry SMTId="LIB" DisplayName="LIBERTY" />
+	<TeamIdListEntry SMTId="LNDNW" DisplayName="LINDENWOOD" />
+	<TeamIdListEntry SMTId="LOU" DisplayName="LOUISVILLE" />
+	<TeamIdListEntry SMTId="LSU" DisplayName="LSU" />
+	<TeamIdListEntry SMTId="LTECH" DisplayName="LOUISIANA TECH" />
+	<TeamIdListEntry SMTId="MAINE" DisplayName="MAINE" />
+	<TeamIdListEntry SMTId="MARN" DisplayName="MARIAN" />
+	<TeamIdListEntry SMTId="MARSH" DisplayName="MARSHALL" />
+	<TeamIdListEntry SMTId="MARST" DisplayName="MARIST" />
+	<TeamIdListEntry SMTId="MASS" DisplayName="MASSACHUSETTS" />
+	<TeamIdListEntry SMTId="MCHST" DisplayName="MICHIGAN ST" />
+	<TeamIdListEntry SMTId="MCNES" DisplayName="MCNEESE ST" />
+	<TeamIdListEntry SMTId="MD" DisplayName="MARYLAND" />
+	<TeamIdListEntry SMTId="MEM" DisplayName="MEMPHIS" />
+	<TeamIdListEntry SMTId="MHDST" DisplayName="MOREHEAD ST" />
+	<TeamIdListEntry SMTId="MIA" DisplayName="MIAMI (FL)" />
+	<TeamIdListEntry SMTId="MIAOH" DisplayName="MIAMI (OH)" />
+	<TeamIdListEntry SMTId="MICH" DisplayName="MICHIGAN" />
+	<TeamIdListEntry SMTId="MIDTN" DisplayName="MTSU" />
+	<TeamIdListEntry SMTId="MINN" DisplayName="MINNESOTA" />
+	<TeamIdListEntry SMTId="MISS" DisplayName="MISSISSIPPI" />
+	<TeamIdListEntry SMTId="MISST" DisplayName="MISSISSIPPI ST" />
+	<TeamIdListEntry SMTId="MIZST" DisplayName="MISSOURI ST" />
+	<TeamIdListEntry SMTId="MIZZ" DisplayName="MISSOURI" />
+	<TeamIdListEntry SMTId="MNMTH" DisplayName="MONMOUTH" />
+	<TeamIdListEntry SMTId="MONT" DisplayName="MONTANA" />
+	<TeamIdListEntry SMTId="MRGST" DisplayName="MORGAN ST" />
+	<TeamIdListEntry SMTId="MRSHL" DisplayName="MARS HILL" />
+	<TeamIdListEntry SMTId="MTST" DisplayName="MONTANA ST" />
+	<TeamIdListEntry SMTId="MTU" DisplayName="MT UNION" />
+	<TeamIdListEntry SMTId="MTWST" DisplayName="MONTANA WESTERN" />
+	<TeamIdListEntry SMTId="MURST" DisplayName="MURRAY ST" />
+	<TeamIdListEntry SMTId="MVLST" DisplayName="MISS VALLEY ST" />
+	<TeamIdListEntry SMTId="NARIZ" DisplayName="NORTHERN ARIZONA" />
+	<TeamIdListEntry SMTId="NAVY" DisplayName="NAVY" />
+	<TeamIdListEntry SMTId="NCAT" DisplayName="NC A&amp;amp;T" />
+	<TeamIdListEntry SMTId="NCCEN" DisplayName="NC CENTRAL" />
+	<TeamIdListEntry SMTId="NCHST" DisplayName="NICHOLLS ST" />
+	<TeamIdListEntry SMTId="NCOL" DisplayName="NORTHERN COLO" />
+	<TeamIdListEntry SMTId="NCST" DisplayName="NC STATE" />
+	<TeamIdListEntry SMTId="ND" DisplayName="NOTRE DAME" />
+	<TeamIdListEntry SMTId="NDST" DisplayName="NO DAKOTA ST" />
+	<TeamIdListEntry SMTId="NEAST" DisplayName="NORTHEASTERN" />
+	<TeamIdListEntry SMTId="NEB" DisplayName="NEBRASKA" />
+	<TeamIdListEntry SMTId="NEV" DisplayName="NEVADA" />
+	<TeamIdListEntry SMTId="NGVL" DisplayName="NORTH GREENVILLE" />
+	<TeamIdListEntry SMTId="NHAMP" DisplayName="NEW HAMPSHIRE" />
+	<TeamIdListEntry SMTId="NILL" DisplayName="NORTHERN ILLINOIS" />
+	<TeamIdListEntry SMTId="NMEX" DisplayName="NEW MEXICO" />
+	<TeamIdListEntry SMTId="NMST" DisplayName="NEW MEXICO ST" />
+	<TeamIdListEntry SMTId="NOIA" DisplayName="UNI" />
+	<TeamIdListEntry SMTId="NOR" DisplayName="NORTH" />
+	<TeamIdListEntry SMTId="NORDA" DisplayName="NORTH DAKOTA" />
+	<TeamIdListEntry SMTId="NORF" DisplayName="NORFOLK ST" />
+	<TeamIdListEntry SMTId="NOVA" DisplayName="VILLANOVA" />
+	<TeamIdListEntry SMTId="NTEX" DisplayName="NORTH TEXAS" />
+	<TeamIdListEntry SMTId="NW" DisplayName="NORTHWESTERN" />
+	<TeamIdListEntry SMTId="NWST" DisplayName="NORTHWESTERN ST" />
+	<TeamIdListEntry SMTId="OHIO" DisplayName="OHIO" />
+	<TeamIdListEntry SMTId="OHST" DisplayName="OHIO ST" />
+	<TeamIdListEntry SMTId="OKLA" DisplayName="OKLAHOMA" />
+	<TeamIdListEntry SMTId="OKST" DisplayName="OKLAHOMA ST" />
+	<TeamIdListEntry SMTId="ORE" DisplayName="OREGON" />
+	<TeamIdListEntry SMTId="ORST" DisplayName="OREGON ST" />
+	<TeamIdListEntry SMTId="PENN" DisplayName="PENNSYLVANIA" />
+	<TeamIdListEntry SMTId="PITT" DisplayName="PITTSBURGH" />
+	<TeamIdListEntry SMTId="PRES" DisplayName="PRESBYTERIAN" />
+	<TeamIdListEntry SMTId="PRIN" DisplayName="PRINCETON" />
+	<TeamIdListEntry SMTId="PRTST" DisplayName="PORTLAND ST" />
+	<TeamIdListEntry SMTId="PRVW" DisplayName="PRAIRIE VIEW" />
+	<TeamIdListEntry SMTId="PSU" DisplayName="PENN ST" />
+	<TeamIdListEntry SMTId="PUR" DisplayName="PURDUE" />
+	<TeamIdListEntry SMTId="RBMOR" DisplayName="ROBERT MORRIS" />
+	<TeamIdListEntry SMTId="RICE" DisplayName="RICE" />
+	<TeamIdListEntry SMTId="RICH" DisplayName="RICHMOND" />
+	<TeamIdListEntry SMTId="RUTG" DisplayName="RUTGERS" />
+	<TeamIdListEntry SMTId="SACHT" DisplayName="SACRED HEART" />
+	<TeamIdListEntry SMTId="SACST" DisplayName="SACRAMENTO ST" />
+	<TeamIdListEntry SMTId="SAM" DisplayName="SAMFORD" />
+	<TeamIdListEntry SMTId="SAVST" DisplayName="SAVANNAH ST" />
+	<TeamIdListEntry SMTId="SCAR" DisplayName="SOUTH CAROLINA" />
+	<TeamIdListEntry SMTId="SCST" DisplayName="S CAROLINA ST" />
+	<TeamIdListEntry SMTId="SDIEG" DisplayName="SAN DIEGO" />
+	<TeamIdListEntry SMTId="SDKST" DisplayName="SO DAKOTA ST" />
+	<TeamIdListEntry SMTId="SDSU" DisplayName="SAN DIEGO ST" />
+	<TeamIdListEntry SMTId="SELA" DisplayName="SE LOUISIANA" />
+	<TeamIdListEntry SMTId="SEMIZ" DisplayName="SE MISSOURI" />
+	<TeamIdListEntry SMTId="SFA" DisplayName="SFA" />
+	<TeamIdListEntry SMTId="SFPA" DisplayName="ST FRANCIS (PA)" />
+	<TeamIdListEntry SMTId="SHOU" DisplayName="SAM HOUSTON ST" />
+	<TeamIdListEntry SMTId="SILL" DisplayName="SOUTHERN ILLINOIS" />
+	<TeamIdListEntry SMTId="SJST" DisplayName="SAN JOSE ST" />
+	<TeamIdListEntry SMTId="SMIS" DisplayName="SOUTHERN MISS" />
+	<TeamIdListEntry SMTId="SMU" DisplayName="SMU" />
+	<TeamIdListEntry SMTId="SOU" DisplayName="SOUTH" />
+	<TeamIdListEntry SMTId="SOUTH" DisplayName="SOUTHERN" />
+	<TeamIdListEntry SMTId="STAN" DisplayName="STANFORD" />
+	<TeamIdListEntry SMTId="STBRK" DisplayName="STONY BROOK" />
+	<TeamIdListEntry SMTId="STHVA" DisplayName="SOUTHERN VIRGINIA" />
+	<TeamIdListEntry SMTId="STPET" DisplayName="SAINT PETER&#39;S" />
+	<TeamIdListEntry SMTId="SUTAH" DisplayName="SOUTHERN UTAH" />
+	<TeamIdListEntry SMTId="SYR" DisplayName="SYRACUSE" />
+	<TeamIdListEntry SMTId="TAMC" DisplayName="TEXAS A&amp;amp;M COMM" />
+	<TeamIdListEntry SMTId="TCU" DisplayName="TCU" />
+	<TeamIdListEntry SMTId="TEMP" DisplayName="TEMPLE" />
+	<TeamIdListEntry SMTId="TENN" DisplayName="TENNESSEE" />
+	<TeamIdListEntry SMTId="TENST" DisplayName="TENNESSEE ST" />
+	<TeamIdListEntry SMTId="TEX" DisplayName="TEXAS" />
+	<TeamIdListEntry SMTId="TMFLA" DisplayName="TEAM FLORIDA" />
+	<TeamIdListEntry SMTId="TMUSA" DisplayName="TEAM USA" />
+	<TeamIdListEntry SMTId="TNMRT" DisplayName="TENN MARTIN" />
+	<TeamIdListEntry SMTId="TNTCH" DisplayName="TENNESSEE TECH" />
+	<TeamIdListEntry SMTId="TOL" DisplayName="TOLEDO" />
+	<TeamIdListEntry SMTId="TOW" DisplayName="TOWSON" />
+	<TeamIdListEntry SMTId="TROY" DisplayName="TROY" />
+	<TeamIdListEntry SMTId="TT" DisplayName="TEXAS TECH" />
+	<TeamIdListEntry SMTId="TUL" DisplayName="TULANE" />
+	<TeamIdListEntry SMTId="TULSA" DisplayName="TULSA" />
+	<TeamIdListEntry SMTId="TXAM" DisplayName="TEXAS A&amp;amp;M" />
+	<TeamIdListEntry SMTId="TXCOL" DisplayName="TEXAS COLLEGE" />
+	<TeamIdListEntry SMTId="TXSOU" DisplayName="TEXAS SOUTHERN" />
+	<TeamIdListEntry SMTId="TXST" DisplayName="TEXAS STATE" />
+	<TeamIdListEntry SMTId="UAB" DisplayName="UAB" />
+	<TeamIdListEntry SMTId="UCDAV" DisplayName="UC DAVIS" />
+	<TeamIdListEntry SMTId="UCF" DisplayName="UCF" />
+	<TeamIdListEntry SMTId="UCLA" DisplayName="UCLA" />
+	<TeamIdListEntry SMTId="UGA" DisplayName="GEORGIA" />
+	<TeamIdListEntry SMTId="ULLAF" DisplayName="UL LAFAYETTE" />
+	<TeamIdListEntry SMTId="ULMON" DisplayName="UL MONROE" />
+	<TeamIdListEntry SMTId="UNC" DisplayName="NORTH CAROLINA" />
+	<TeamIdListEntry SMTId="UNCP" DisplayName="UNC PEMBROKE" />
+	<TeamIdListEntry SMTId="UNLV" DisplayName="UNLV" />
+	<TeamIdListEntry SMTId="URI" DisplayName="RHODE ISLAND" />
+	<TeamIdListEntry SMTId="USC" DisplayName="USC" />
+	<TeamIdListEntry SMTId="USF" DisplayName="SOUTH FLORIDA" />
+	<TeamIdListEntry SMTId="UTAH" DisplayName="UTAH" />
+	<TeamIdListEntry SMTId="UTEP" DisplayName="UTEP" />
+	<TeamIdListEntry SMTId="UTST" DisplayName="UTAH ST" />
+	<TeamIdListEntry SMTId="UVA" DisplayName="VIRGINIA" />
+	<TeamIdListEntry SMTId="VALP" DisplayName="VALPARAISO" />
+	<TeamIdListEntry SMTId="VALST" DisplayName="VALDOSTA ST" />
+	<TeamIdListEntry SMTId="VAN" DisplayName="VANDERBILT" />
+	<TeamIdListEntry SMTId="VMI" DisplayName="VMI" />
+	<TeamIdListEntry SMTId="VST" DisplayName="VIRGINIA ST" />
+	<TeamIdListEntry SMTId="VT" DisplayName="VIRGINIA TECH" />
+	<TeamIdListEntry SMTId="WAG" DisplayName="WAGNER" />
+	<TeamIdListEntry SMTId="WAKE" DisplayName="WAKE FOREST" />
+	<TeamIdListEntry SMTId="WALD" DisplayName="WALDORF" />
+	<TeamIdListEntry SMTId="WASH" DisplayName="WASHINGTON" />
+	<TeamIdListEntry SMTId="WAST" DisplayName="WASHINGTON ST" />
+	<TeamIdListEntry SMTId="WCAR" DisplayName="WESTERN CAROLINA" />
+	<TeamIdListEntry SMTId="WEBER" DisplayName="WEBER STATE" />
+	<TeamIdListEntry SMTId="WEBIN" DisplayName="WEBBER INTL" />
+	<TeamIdListEntry SMTId="WEST" DisplayName="WEST" />
+	<TeamIdListEntry SMTId="WILL" DisplayName="WESTERN ILLINOIS" />
+	<TeamIdListEntry SMTId="WISC" DisplayName="WISCONSIN" />
+	<TeamIdListEntry SMTId="WISCWW" DisplayName="WISC WHITEWATER" />
+	<TeamIdListEntry SMTId="WKY" DisplayName="WESTERN KENTUCKY" />
+	<TeamIdListEntry SMTId="WLMRY" DisplayName="WILLIAM &amp;amp; MARY" />
+	<TeamIdListEntry SMTId="WMICH" DisplayName="WESTERN MICHIGAN" />
+	<TeamIdListEntry SMTId="WNSAL" DisplayName="WINSTON SALEM" />
+	<TeamIdListEntry SMTId="WOFF" DisplayName="WOFFORD" />
+	<TeamIdListEntry SMTId="WSOR" DisplayName="WESTERN OREGON" />
+	<TeamIdListEntry SMTId="WVU" DisplayName="WEST VIRGINIA" />
+	<TeamIdListEntry SMTId="WYO" DisplayName="WYOMING" />
+	<TeamIdListEntry SMTId="YALE" DisplayName="YALE" />
+	<TeamIdListEntry SMTId="YOUNG" DisplayName="YOUNGSTOWN ST" />
+	<TeamIdListEntry SMTId="AMINT" DisplayName="AMERICAN INTL" />
+	<TeamIdListEntry SMTId="APRNT" DisplayName="APPRENTICE" />
+	<TeamIdListEntry SMTId="ASHL" DisplayName="ASHLAND" />
+	<TeamIdListEntry SMTId="AUGSD" DisplayName="AUGUSTANA (SD)" />
+	<TeamIdListEntry SMTId="BLUPA" DisplayName="BLOOMSBURG" />
+	<TeamIdListEntry SMTId="CARMT" DisplayName="CARROLL MT" />
+	<TeamIdListEntry SMTId="CATAW" DisplayName="CATAWBA" />
+	<TeamIdListEntry SMTId="CNCRD" DisplayName="CONCORD COLLEGE" />
+	<TeamIdListEntry SMTId="COLMI" DisplayName="COLORADO MINES" />
+	<TeamIdListEntry SMTId="CSTPU" DisplayName="CSU-PUEBLO" />
+	<TeamIdListEntry SMTId="CWASH" DisplayName="CENTRAL WASH" />
+	<TeamIdListEntry SMTId="FTLEW" DisplayName="FT LEWIS" />
+	<TeamIdListEntry SMTId="GAST" DisplayName="GEORGIA ST" />
+	<TeamIdListEntry SMTId="GVIEW" DisplayName="GRAND VIEW" />
+	<TeamIdListEntry SMTId="INDPA" DisplayName="INDIANA (PA)" />
+	<TeamIdListEntry SMTId="LERHY" DisplayName="LENOIR-RHYNE" />
+	<TeamIdListEntry SMTId="MHOUS" DisplayName="MOREHOUSE" />
+	<TeamIdListEntry SMTId="MINOT" DisplayName="MINOT ST" />
+	<TeamIdListEntry SMTId="MINST" DisplayName="MINNESOTA ST" />
+	<TeamIdListEntry SMTId="MSRWT" DisplayName="MISSOURI WESTERN" />
+	<TeamIdListEntry SMTId="MVLTN" DisplayName="MARYVILLE (TN)" />
+	<TeamIdListEntry SMTId="NHAVN" DisplayName="NEW HAVEN" />
+	<TeamIdListEntry SMTId="NWOKL" DisplayName="NW OKLAHOMA ST" />
+	<TeamIdListEntry SMTId="OLDDM" DisplayName="OLD DOMINION" />
+	<TeamIdListEntry SMTId="PITTS" DisplayName="PITTSBURG ST" />
+	<TeamIdListEntry SMTId="SANTX" DisplayName="SAINT XAVIER" />
+	<TeamIdListEntry SMTId="SDAK" DisplayName="SOUTH DAKOTA" />
+	<TeamIdListEntry SMTId="SGVST" DisplayName="SAGINAW VAL ST" />
+	<TeamIdListEntry SMTId="SHAW" DisplayName="SHAW" />
+	<TeamIdListEntry SMTId="SIOUX" DisplayName="SIOUX FALLS" />
+	<TeamIdListEntry SMTId="SOALA" DisplayName="SOUTH ALABAMA" />
+	<TeamIdListEntry SMTId="SRNO" DisplayName="NORTH" />
+	<TeamIdListEntry SMTId="SRSO" DisplayName="SOUTH" />
+	<TeamIdListEntry SMTId="STILL" DisplayName="STILLMAN" />
+	<TeamIdListEntry SMTId="TARL" DisplayName="TARLETON ST" />
+	<TeamIdListEntry SMTId="TSKGE" DisplayName="TUSKEGEE" />
+	<TeamIdListEntry SMTId="TUSC" DisplayName="TUSCULUM" />
+	<TeamIdListEntry SMTId="UMSAT" DisplayName="MISSOURI S&amp;amp;T" />
+	<TeamIdListEntry SMTId="UNKY" DisplayName="UNION (KY)" />
+	<TeamIdListEntry SMTId="UTSA" DisplayName="UTSA" />
+	<TeamIdListEntry SMTId="WASHB" DisplayName="WASHBURN" />
+	<TeamIdListEntry SMTId="WAYNS" DisplayName="WAYNE STATE MI" />
+	<TeamIdListEntry SMTId="WCHES" DisplayName="WEST CHESTER" />
+	<TeamIdListEntry SMTId="WESCL" DisplayName="WESTERN ST (CO)" />
+	<TeamIdListEntry SMTId="WNMEX" DisplayName="WEST NEW MEXICO" />
+	<TeamIdListEntry SMTId="ABIL" />
+	<TeamIdListEntry SMTId="ACA" />
+	<TeamIdListEntry SMTId="ADAMS" />
+	<TeamIdListEntry SMTId="ADEL" />
+	<TeamIdListEntry SMTId="ADI" />
+	<TeamIdListEntry SMTId="AKRON" />
+	<TeamIdListEntry SMTId="ALHUN" />
+	<TeamIdListEntry SMTId="ALANC" />
+	<TeamIdListEntry SMTId="ALFAI" />
+	<TeamIdListEntry SMTId="ALBST" />
+	<TeamIdListEntry SMTId="ALBI" />
+	<TeamIdListEntry SMTId="ALBRT" />
+	<TeamIdListEntry SMTId="ALDER" />
+	<TeamIdListEntry SMTId="ALFRD" />
+	<TeamIdListEntry SMTId="AELD" />
+	<TeamIdListEntry SMTId="ALLEG" />
+	<TeamIdListEntry SMTId="ALLEN" />
+	<TeamIdListEntry SMTId="ALMA" />
+	<TeamIdListEntry SMTId="ALVER" />
+	<TeamIdListEntry SMTId="AUPR" />
+	<TeamIdListEntry SMTId="AMER" />
+	<TeamIdListEntry SMTId="AMH" />
+	<TeamIdListEntry SMTId="ANDIN" />
+	<TeamIdListEntry SMTId="ANDSC" />
+	<TeamIdListEntry SMTId="ANGST" />
+	<TeamIdListEntry SMTId="AQUIN" />
+	<TeamIdListEntry SMTId="AKBAP" />
+	<TeamIdListEntry SMTId="AKTCH" />
+	<TeamIdListEntry SMTId="ARLBP" />
+	<TeamIdListEntry SMTId="ARMAT" />
+	<TeamIdListEntry SMTId="ARMST" />
+	<TeamIdListEntry SMTId="ASBRY" />
+	<TeamIdListEntry SMTId="ASH" />
+	<TeamIdListEntry SMTId="ASHLD" />
+	<TeamIdListEntry SMTId="ASSDG" />
+	<TeamIdListEntry SMTId="ATHST" />
+	<TeamIdListEntry SMTId="ATCHR" />
+	<TeamIdListEntry SMTId="ATLUN" />
+	<TeamIdListEntry SMTId="AUBMT" />
+	<TeamIdListEntry SMTId="AUGS" />
+	<TeamIdListEntry SMTId="AUGUS" />
+	<TeamIdListEntry SMTId="AUGIL" />
+	<TeamIdListEntry SMTId="AUSTD" />
+	<TeamIdListEntry SMTId="AUROR" />
+	<TeamIdListEntry SMTId="AUST" />
+	<TeamIdListEntry SMTId="AVMAR" />
+	<TeamIdListEntry SMTId="AVERT" />
+	<TeamIdListEntry SMTId="AVILA" />
+	<TeamIdListEntry SMTId="AZUSA" />
+	<TeamIdListEntry SMTId="BABS" />
+	<TeamIdListEntry SMTId="BACO" />
+	<TeamIdListEntry SMTId="BAKE" />
+	<TeamIdListEntry SMTId="BLDWL" />
+	<TeamIdListEntry SMTId="BARAT" />
+	<TeamIdListEntry SMTId="BARRY" />
+	<TeamIdListEntry SMTId="BART" />
+	<TeamIdListEntry SMTId="BYRDG" />
+	<TeamIdListEntry SMTId="BELHV" />
+	<TeamIdListEntry SMTId="BELAR" />
+	<TeamIdListEntry SMTId="BELLE" />
+	<TeamIdListEntry SMTId="BELMT" />
+	<TeamIdListEntry SMTId="BMTAB" />
+	<TeamIdListEntry SMTId="BEMID" />
+	<TeamIdListEntry SMTId="BENEC" />
+	<TeamIdListEntry SMTId="BENT" />
+	<TeamIdListEntry SMTId="BERRE" />
+	<TeamIdListEntry SMTId="BERRY" />
+	<TeamIdListEntry SMTId="BETCA" />
+	<TeamIdListEntry SMTId="BETKS" />
+	<TeamIdListEntry SMTId="BETWV" />
+	<TeamIdListEntry SMTId="BTLKS" />
+	<TeamIdListEntry SMTId="BTLMN" />
+	<TeamIdListEntry SMTId="BTLTN" />
+	<TeamIdListEntry SMTId="BING" />
+	<TeamIdListEntry SMTId="BIOLA" />
+	<TeamIdListEntry SMTId="BLKBN" />
+	<TeamIdListEntry SMTId="BLOOM" />
+	<TeamIdListEntry SMTId="BLMSB" />
+	<TeamIdListEntry SMTId="BLUMT" />
+	<TeamIdListEntry SMTId="BLUFD" />
+	<TeamIdListEntry SMTId="BLUST" />
+	<TeamIdListEntry SMTId="BU" />
+	<TeamIdListEntry SMTId="BOWD" />
+	<TeamIdListEntry SMTId="BOWIE" />
+	<TeamIdListEntry SMTId="BRAD" />
+	<TeamIdListEntry SMTId="BRAND" />
+	<TeamIdListEntry SMTId="BRNDN" />
+	<TeamIdListEntry SMTId="BRESC" />
+	<TeamIdListEntry SMTId="BREV" />
+	<TeamIdListEntry SMTId="BREW" />
+	<TeamIdListEntry SMTId="BRIAR" />
+	<TeamIdListEntry SMTId="BRGPT" />
+	<TeamIdListEntry SMTId="BRIVA" />
+	<TeamIdListEntry SMTId="BROCK" />
+	<TeamIdListEntry SMTId="BROOK" />
+	<TeamIdListEntry SMTId="BRYAN" />
+	<TeamIdListEntry SMTId="BRYNT" />
+	<TeamIdListEntry SMTId="BUENA" />
+	<TeamIdListEntry SMTId="BUFST" />
+	<TeamIdListEntry SMTId="BYUHI" />
+	<TeamIdListEntry SMTId="CABRI" />
+	<TeamIdListEntry SMTId="CLBAP" />
+	<TeamIdListEntry SMTId="CALLU" />
+	<TeamIdListEntry SMTId="CALMA" />
+	<TeamIdListEntry SMTId="CPOPM" />
+	<TeamIdListEntry SMTId="CALBK" />
+	<TeamIdListEntry SMTId="CALDO" />
+	<TeamIdListEntry SMTId="CSFUL" />
+	<TeamIdListEntry SMTId="CSTLA" />
+	<TeamIdListEntry SMTId="CALMB" />
+	<TeamIdListEntry SMTId="CSNRT" />
+	<TeamIdListEntry SMTId="CALD" />
+	<TeamIdListEntry SMTId="CALG" />
+	<TeamIdListEntry SMTId="CALPA" />
+	<TeamIdListEntry SMTId="CLMTC" />
+	<TeamIdListEntry SMTId="CAMRN" />
+	<TeamIdListEntry SMTId="CMPVL" />
+	<TeamIdListEntry SMTId="CANIS" />
+	<TeamIdListEntry SMTId="CAPIT" />
+	<TeamIdListEntry SMTId="CARDS" />
+	<TeamIdListEntry SMTId="CARLT" />
+	<TeamIdListEntry SMTId="CRGML" />
+	<TeamIdListEntry SMTId="CARWI" />
+	<TeamIdListEntry SMTId="CARNW" />
+	<TeamIdListEntry SMTId="CARTH" />
+	<TeamIdListEntry SMTId="CARVB" />
+	<TeamIdListEntry SMTId="CASC" />
+	<TeamIdListEntry SMTId="CASST" />
+	<TeamIdListEntry SMTId="CATH" />
+	<TeamIdListEntry SMTId="CEDAR" />
+	<TeamIdListEntry SMTId="CENT" />
+	<TeamIdListEntry SMTId="CENNJ" />
+	<TeamIdListEntry SMTId="CNARK" />
+	<TeamIdListEntry SMTId="CBAPT" />
+	<TeamIdListEntry SMTId="CMETH" />
+	<TeamIdListEntry SMTId="CNMIZ" />
+	<TeamIdListEntry SMTId="COKLA" />
+	<TeamIdListEntry SMTId="CHAST" />
+	<TeamIdListEntry SMTId="CHAM" />
+	<TeamIdListEntry SMTId="CHAMP" />
+	<TeamIdListEntry SMTId="CHAP" />
+	<TeamIdListEntry SMTId="CHAWV" />
+	<TeamIdListEntry SMTId="NCCHA" />
+	<TeamIdListEntry SMTId="CHEN" />
+	<TeamIdListEntry SMTId="CHIC" />
+	<TeamIdListEntry SMTId="CHIST" />
+	<TeamIdListEntry SMTId="CHOW" />
+	<TeamIdListEntry SMTId="CBROS" />
+	<TeamIdListEntry SMTId="CCHRS" />
+	<TeamIdListEntry SMTId="CLAF" />
+	<TeamIdListEntry SMTId="CLARE" />
+	<TeamIdListEntry SMTId="CLAR" />
+	<TeamIdListEntry SMTId="CLMAS" />
+	<TeamIdListEntry SMTId="CLATL" />
+	<TeamIdListEntry SMTId="CLRKE" />
+	<TeamIdListEntry SMTId="CLRKS" />
+	<TeamIdListEntry SMTId="CLYST" />
+	<TeamIdListEntry SMTId="CLVST" />
+	<TeamIdListEntry SMTId="USCG" />
+	<TeamIdListEntry SMTId="COECL" />
+	<TeamIdListEntry SMTId="COKER" />
+	<TeamIdListEntry SMTId="COLBY" />
+	<TeamIdListEntry SMTId="CHARL" />
+	<TeamIdListEntry SMTId="COLCH" />
+	<TeamIdListEntry SMTId="COLCL" />
+	<TeamIdListEntry SMTId="CMINE" />
+	<TeamIdListEntry SMTId="CSPUE" />
+	<TeamIdListEntry SMTId="CLMBS" />
+	<TeamIdListEntry SMTId="CCDCA" />
+	<TeamIdListEntry SMTId="CCDMI" />
+	<TeamIdListEntry SMTId="CCDNY" />
+	<TeamIdListEntry SMTId="CCDOR" />
+	<TeamIdListEntry SMTId="CCDTX" />
+	<TeamIdListEntry SMTId="CCDWI" />
+	<TeamIdListEntry SMTId="CCCHI" />
+	<TeamIdListEntry SMTId="CCDSP" />
+	<TeamIdListEntry SMTId="CTCOL" />
+	<TeamIdListEntry SMTId="COPST" />
+	<TeamIdListEntry SMTId="CRNCL" />
+	<TeamIdListEntry SMTId="COV" />
+	<TeamIdListEntry SMTId="CREI" />
+	<TeamIdListEntry SMTId="CROWN" />
+	<TeamIdListEntry SMTId="CULV" />
+	<TeamIdListEntry SMTId="CMKY" />
+	<TeamIdListEntry SMTId="CMTN" />
+	<TeamIdListEntry SMTId="CURRY" />
+	<TeamIdListEntry SMTId="DAEM" />
+	<TeamIdListEntry SMTId="DAKST" />
+	<TeamIdListEntry SMTId="DKWES" />
+	<TeamIdListEntry SMTId="DAL" />
+	<TeamIdListEntry SMTId="DLBAP" />
+	<TeamIdListEntry SMTId="DLCHR" />
+	<TeamIdListEntry SMTId="DANA" />
+	<TeamIdListEntry SMTId="DAWEB" />
+	<TeamIdListEntry SMTId="DAVEN" />
+	<TeamIdListEntry SMTId="DVELK" />
+	<TeamIdListEntry SMTId="DEF" />
+	<TeamIdListEntry SMTId="DLVAL" />
+	<TeamIdListEntry SMTId="DLTST" />
+	<TeamIdListEntry SMTId="DENIS" />
+	<TeamIdListEntry SMTId="DENV" />
+	<TeamIdListEntry SMTId="DEP" />
+	<TeamIdListEntry SMTId="DEPAU" />
+	<TeamIdListEntry SMTId="DET" />
+	<TeamIdListEntry SMTId="DCKPA" />
+	<TeamIdListEntry SMTId="DCKST" />
+	<TeamIdListEntry SMTId="DILL" />
+	<TeamIdListEntry SMTId="DC" />
+	<TeamIdListEntry SMTId="DOANE" />
+	<TeamIdListEntry SMTId="DOM" />
+	<TeamIdListEntry SMTId="DOMIL" />
+	<TeamIdListEntry SMTId="DOMNY" />
+	<TeamIdListEntry SMTId="DOWL" />
+	<TeamIdListEntry SMTId="DREW" />
+	<TeamIdListEntry SMTId="DREX" />
+	<TeamIdListEntry SMTId="DRURY" />
+	<TeamIdListEntry SMTId="DUBQ" />
+	<TeamIdListEntry SMTId="DYCOL" />
+	<TeamIdListEntry SMTId="EARL" />
+	<TeamIdListEntry SMTId="ECOK" />
+	<TeamIdListEntry SMTId="STROUD" />
+	<TeamIdListEntry SMTId="ETENN" />
+	<TeamIdListEntry SMTId="ETXBP" />
+	<TeamIdListEntry SMTId="EASM" />
+	<TeamIdListEntry SMTId="EASNM" />
+	<TeamIdListEntry SMTId="EOREG" />
+	<TeamIdListEntry SMTId="ESWST" />
+	<TeamIdListEntry SMTId="ECCL" />
+	<TeamIdListEntry SMTId="ECKRD" />
+	<TeamIdListEntry SMTId="EDINB" />
+	<TeamIdListEntry SMTId="EDWAT" />
+	<TeamIdListEntry SMTId="EZCTY" />
+	<TeamIdListEntry SMTId="ELZBTH" />
+	<TeamIdListEntry SMTId="ELM" />
+	<TeamIdListEntry SMTId="ELMR" />
+	<TeamIdListEntry SMTId="EMBRY" />
+	<TeamIdListEntry SMTId="EMMAN" />
+	<TeamIdListEntry SMTId="EMORY" />
+	<TeamIdListEntry SMTId="EMHEN" />
+	<TeamIdListEntry SMTId="EMPST" />
+	<TeamIdListEntry SMTId="ERSKN" />
+	<TeamIdListEntry SMTId="EUREK" />
+	<TeamIdListEntry SMTId="EVANG" />
+	<TeamIdListEntry SMTId="EVANS" />
+	<TeamIdListEntry SMTId="EVRST" />
+	<TeamIdListEntry SMTId="FAIR" />
+	<TeamIdListEntry SMTId="FAIRD" />
+	<TeamIdListEntry SMTId="FRMNT" />
+	<TeamIdListEntry SMTId="FABAP" />
+	<TeamIdListEntry SMTId="FAULK" />
+	<TeamIdListEntry SMTId="FAYET" />
+	<TeamIdListEntry SMTId="FDUFL" />
+	<TeamIdListEntry SMTId="FERST" />
+	<TeamIdListEntry SMTId="FERRM" />
+	<TeamIdListEntry SMTId="FNDLY" />
+	<TeamIdListEntry SMTId="FISH" />
+	<TeamIdListEntry SMTId="FISK" />
+	<TeamIdListEntry SMTId="FITCH" />
+	<TeamIdListEntry SMTId="FLAG" />
+	<TeamIdListEntry SMTId="FLCHR" />
+	<TeamIdListEntry SMTId="FLMEM" />
+	<TeamIdListEntry SMTId="FLSOU" />
+	<TeamIdListEntry SMTId="FHAYS" />
+	<TeamIdListEntry SMTId="FTVAL" />
+	<TeamIdListEntry SMTId="FRMAR" />
+	<TeamIdListEntry SMTId="FRANK" />
+	<TeamIdListEntry SMTId="FREED" />
+	<TeamIdListEntry SMTId="FRSPC" />
+	<TeamIdListEntry SMTId="GALDT" />
+	<TeamIdListEntry SMTId="GANN" />
+	<TeamIdListEntry SMTId="GENVA" />
+	<TeamIdListEntry SMTId="GMSN" />
+	<TeamIdListEntry SMTId="GW" />
+	<TeamIdListEntry SMTId="GTNKY" />
+	<TeamIdListEntry SMTId="GACOL" />
+	<TeamIdListEntry SMTId="GASW" />
+	<TeamIdListEntry SMTId="GETTY" />
+	<TeamIdListEntry SMTId="GLNST" />
+	<TeamIdListEntry SMTId="GONZ" />
+	<TeamIdListEntry SMTId="GOSHN" />
+	<TeamIdListEntry SMTId="GOUCH" />
+	<TeamIdListEntry SMTId="GRACE" />
+	<TeamIdListEntry SMTId="GRCNY" />
+	<TeamIdListEntry SMTId="GRVAL" />
+	<TeamIdListEntry SMTId="GRFAL" />
+	<TeamIdListEntry SMTId="GRMNT" />
+	<TeamIdListEntry SMTId="GBORO" />
+	<TeamIdListEntry SMTId="GRNVL" />
+	<TeamIdListEntry SMTId="GRINN" />
+	<TeamIdListEntry SMTId="GRVCY" />
+	<TeamIdListEntry SMTId="GUILF" />
+	<TeamIdListEntry SMTId="GUSTV" />
+	<TeamIdListEntry SMTId="HAMIL" />
+	<TeamIdListEntry SMTId="HAMLN" />
+	<TeamIdListEntry SMTId="HMSYD" />
+	<TeamIdListEntry SMTId="HANOV" />
+	<TeamIdListEntry SMTId="HARDG" />
+	<TeamIdListEntry SMTId="HRDSM" />
+	<TeamIdListEntry SMTId="HSTWE" />
+	<TeamIdListEntry SMTId="HART" />
+	<TeamIdListEntry SMTId="HARTW" />
+	<TeamIdListEntry SMTId="HASK" />
+	<TeamIdListEntry SMTId="HAST" />
+	<TeamIdListEntry SMTId="HVRFD" />
+	<TeamIdListEntry SMTId="HHILO" />
+	<TeamIdListEntry SMTId="HILOA" />
+	<TeamIdListEntry SMTId="HIPAC" />
+	<TeamIdListEntry SMTId="HEIDL" />
+	<TeamIdListEntry SMTId="HENST" />
+	<TeamIdListEntry SMTId="HIPT" />
+	<TeamIdListEntry SMTId="HILLS" />
+	<TeamIdListEntry SMTId="HIRAM" />
+	<TeamIdListEntry SMTId="HOBRT" />
+	<TeamIdListEntry SMTId="HLYNM" />
+	<TeamIdListEntry SMTId="HOPE" />
+	<TeamIdListEntry SMTId="HPINT" />
+	<TeamIdListEntry SMTId="HOUGH" />
+	<TeamIdListEntry SMTId="HOUBP" />
+	<TeamIdListEntry SMTId="HPAYN" />
+	<TeamIdListEntry SMTId="HUMB" />
+	<TeamIdListEntry SMTId="HUNT" />
+	<TeamIdListEntry SMTId="HNTIN" />
+	<TeamIdListEntry SMTId="HUSS" />
+	<TeamIdListEntry SMTId="HSTTL" />
+	<TeamIdListEntry SMTId="ILCOL" />
+	<TeamIdListEntry SMTId="ILSPR" />
+	<TeamIdListEntry SMTId="ILTCH" />
+	<TeamIdListEntry SMTId="ILWES" />
+	<TeamIdListEntry SMTId="ILLCH" />
+	<TeamIdListEntry SMTId="INWES" />
+	<TeamIdListEntry SMTId="INDKO" />
+	<TeamIdListEntry SMTId="INDSB" />
+	<TeamIdListEntry SMTId="INDSE" />
+	<TeamIdListEntry SMTId="INTCH" />
+	<TeamIdListEntry SMTId="INDY" />
+	<TeamIdListEntry SMTId="IAWES" />
+	<TeamIdListEntry SMTId="IPFW" />
+	<TeamIdListEntry SMTId="ITHCA" />
+	<TeamIdListEntry SMTId="IUPUI" />
+	<TeamIdListEntry SMTId="JTOWN" />
+	<TeamIdListEntry SMTId="JRVCH" />
+	<TeamIdListEntry SMTId="JBRWN" />
+	<TeamIdListEntry SMTId="JCARL" />
+	<TeamIdListEntry SMTId="JNJAY" />
+	<TeamIdListEntry SMTId="JHOPK" />
+	<TeamIdListEntry SMTId="JWALE" />
+	<TeamIdListEntry SMTId="JSMITH" />
+	<TeamIdListEntry SMTId="JUNIA" />
+	<TeamIdListEntry SMTId="KALAM" />
+	<TeamIdListEntry SMTId="KEAN" />
+	<TeamIdListEntry SMTId="KEENE" />
+	<TeamIdListEntry SMTId="KEND" />
+	<TeamIdListEntry SMTId="KNSAW" />
+	<TeamIdListEntry SMTId="KYCHR" />
+	<TeamIdListEntry SMTId="KYST" />
+	<TeamIdListEntry SMTId="KYWES" />
+	<TeamIdListEntry SMTId="KENYN" />
+	<TeamIdListEntry SMTId="KEUKA" />
+	<TeamIdListEntry SMTId="KNGCL" />
+	<TeamIdListEntry SMTId="KINGS" />
+	<TeamIdListEntry SMTId="KNOX" />
+	<TeamIdListEntry SMTId="KNXVL" />
+	<TeamIdListEntry SMTId="KUTZ" />
+	<TeamIdListEntry SMTId="LROCH" />
+	<TeamIdListEntry SMTId="LAGRN" />
+	<TeamIdListEntry SMTId="LKFOR" />
+	<TeamIdListEntry SMTId="LKSUP" />
+	<TeamIdListEntry SMTId="LAKE" />
+	<TeamIdListEntry SMTId="LAMAR" />
+	<TeamIdListEntry SMTId="LAMBT" />
+	<TeamIdListEntry SMTId="LANDR" />
+	<TeamIdListEntry SMTId="LANE" />
+	<TeamIdListEntry SMTId="LANGS" />
+	<TeamIdListEntry SMTId="LASEL" />
+	<TeamIdListEntry SMTId="LAWRN" />
+	<TeamIdListEntry SMTId="LEE" />
+	<TeamIdListEntry SMTId="LEES" />
+	<TeamIdListEntry SMTId="LEMOY" />
+	<TeamIdListEntry SMTId="LMNOW" />
+	<TeamIdListEntry SMTId="LETOU" />
+	<TeamIdListEntry SMTId="LEWIS" />
+	<TeamIdListEntry SMTId="LCLRK" />
+	<TeamIdListEntry SMTId="LCKST" />
+	<TeamIdListEntry SMTId="LIME" />
+	<TeamIdListEntry SMTId="LNCMO" />
+	<TeamIdListEntry SMTId="LNCPA" />
+	<TeamIdListEntry SMTId="LNCLN" />
+	<TeamIdListEntry SMTId="LNDSY" />
+	<TeamIdListEntry SMTId="LINF" />
+	<TeamIdListEntry SMTId="LIPS" />
+	<TeamIdListEntry SMTId="CWPST" />
+	<TeamIdListEntry SMTId="LVING" />
+	<TeamIdListEntry SMTId="LYMNT" />
+	<TeamIdListEntry SMTId="LOCK" />
+	<TeamIdListEntry SMTId="LBST" />
+	<TeamIdListEntry SMTId="LI" />
+	<TeamIdListEntry SMTId="LONGW" />
+	<TeamIdListEntry SMTId="LORAS" />
+	<TeamIdListEntry SMTId="LACOL" />
+	<TeamIdListEntry SMTId="LOYNO" />
+	<TeamIdListEntry SMTId="LOYMD" />
+	<TeamIdListEntry SMTId="LOYCH" />
+	<TeamIdListEntry SMTId="LSHRV" />
+	<TeamIdListEntry SMTId="LUBCH" />
+	<TeamIdListEntry SMTId="LUTHR" />
+	<TeamIdListEntry SMTId="LYCOM" />
+	<TeamIdListEntry SMTId="LYNCH" />
+	<TeamIdListEntry SMTId="LYNN" />
+	<TeamIdListEntry SMTId="LYON" />
+	<TeamIdListEntry SMTId="MACAL" />
+	<TeamIdListEntry SMTId="MACMR" />
+	<TeamIdListEntry SMTId="MNMRT" />
+	<TeamIdListEntry SMTId="MALNE" />
+	<TeamIdListEntry SMTId="MANCH" />
+	<TeamIdListEntry SMTId="MANH" />
+	<TeamIdListEntry SMTId="MNTVL" />
+	<TeamIdListEntry SMTId="MANSF" />
+	<TeamIdListEntry SMTId="MARAN" />
+	<TeamIdListEntry SMTId="MRIAN" />
+	<TeamIdListEntry SMTId="MRETA" />
+	<TeamIdListEntry SMTId="MARQ" />
+	<TeamIdListEntry SMTId="MMETH" />
+	<TeamIdListEntry SMTId="MARY" />
+	<TeamIdListEntry SMTId="MHBAY" />
+	<TeamIdListEntry SMTId="MWASH" />
+	<TeamIdListEntry SMTId="MRYGR" />
+	<TeamIdListEntry SMTId="MDBBL" />
+	<TeamIdListEntry SMTId="MMTVA" />
+	<TeamIdListEntry SMTId="MRYWD" />
+	<TeamIdListEntry SMTId="MAMAR" />
+	<TeamIdListEntry SMTId="UMBOS" />
+	<TeamIdListEntry SMTId="MADRT" />
+	<TeamIdListEntry SMTId="MALOW" />
+	<TeamIdListEntry SMTId="MSTRS" />
+	<TeamIdListEntry SMTId="MYVST" />
+	<TeamIdListEntry SMTId="MCDAN" />
+	<TeamIdListEntry SMTId="MCKEN" />
+	<TeamIdListEntry SMTId="MCMUR" />
+	<TeamIdListEntry SMTId="MCPHE" />
+	<TeamIdListEntry SMTId="MEDAL" />
+	<TeamIdListEntry SMTId="MDEVS" />
+	<TeamIdListEntry SMTId="MENLO" />
+	<TeamIdListEntry SMTId="MERCR" />
+	<TeamIdListEntry SMTId="MMARN" />
+	<TeamIdListEntry SMTId="MERCY" />
+	<TeamIdListEntry SMTId="MRHRS" />
+	<TeamIdListEntry SMTId="MERR" />
+	<TeamIdListEntry SMTId="MESSH" />
+	<TeamIdListEntry SMTId="METHD" />
+	<TeamIdListEntry SMTId="METRO" />
+	<TeamIdListEntry SMTId="MITEC" />
+	<TeamIdListEntry SMTId="MIDEA" />
+	<TeamIdListEntry SMTId="MAMNA" />
+	<TeamIdListEntry SMTId="MDBRY" />
+	<TeamIdListEntry SMTId="MLUTH" />
+	<TeamIdListEntry SMTId="MWEST" />
+	<TeamIdListEntry SMTId="MILES" />
+	<TeamIdListEntry SMTId="MILLR" />
+	<TeamIdListEntry SMTId="MILLG" />
+	<TeamIdListEntry SMTId="MILLK" />
+	<TeamIdListEntry SMTId="MILLS" />
+	<TeamIdListEntry SMTId="MNDUL" />
+	<TeamIdListEntry SMTId="MCROK" />
+	<TeamIdListEntry SMTId="MMORR" />
+	<TeamIdListEntry SMTId="MSCOL" />
+	<TeamIdListEntry SMTId="MOSOU" />
+	<TeamIdListEntry SMTId="MZVAL" />
+	<TeamIdListEntry SMTId="MSTLO" />
+	<TeamIdListEntry SMTId="MIT" />
+	<TeamIdListEntry SMTId="MOBAP" />
+	<TeamIdListEntry SMTId="MZWES" />
+	<TeamIdListEntry SMTId="MOBLE" />
+	<TeamIdListEntry SMTId="MOLOY" />
+	<TeamIdListEntry SMTId="MTHIL" />
+	<TeamIdListEntry SMTId="MSUNO" />
+	<TeamIdListEntry SMTId="MSBIL" />
+	<TeamIdListEntry SMTId="MTECH" />
+	<TeamIdListEntry SMTId="MTCLR" />
+	<TeamIdListEntry SMTId="MVALO" />
+	<TeamIdListEntry SMTId="MTRET" />
+	<TeamIdListEntry SMTId="MORAV" />
+	<TeamIdListEntry SMTId="MORNS" />
+	<TeamIdListEntry SMTId="MSTJO" />
+	<TeamIdListEntry SMTId="MTIDA" />
+	<TeamIdListEntry SMTId="MOLIV" />
+	<TeamIdListEntry SMTId="MSMNY" />
+	<TeamIdListEntry SMTId="MSMRY" />
+	<TeamIdListEntry SMTId="MYUNI" />
+	<TeamIdListEntry SMTId="MNTST" />
+	<TeamIdListEntry SMTId="MTALO" />
+	<TeamIdListEntry SMTId="MTSEN" />
+	<TeamIdListEntry SMTId="MTVRN" />
+	<TeamIdListEntry SMTId="MUHLN" />
+	<TeamIdListEntry SMTId="MUSK" />
+	<TeamIdListEntry SMTId="NCHRS" />
+	<TeamIdListEntry SMTId="NBWES" />
+	<TeamIdListEntry SMTId="NEBKE" />
+	<TeamIdListEntry SMTId="NEBOM" />
+	<TeamIdListEntry SMTId="NENGC" />
+	<TeamIdListEntry SMTId="NHAVE" />
+	<TeamIdListEntry SMTId="NJCYU" />
+	<TeamIdListEntry SMTId="NORL" />
+	<TeamIdListEntry SMTId="NEWB" />
+	<TeamIdListEntry SMTId="NIAG" />
+	<TeamIdListEntry SMTId="NCHCL" />
+	<TeamIdListEntry SMTId="NJTCH" />
+	<TeamIdListEntry SMTId="NALAB" />
+	<TeamIdListEntry SMTId="NCWES" />
+	<TeamIdListEntry SMTId="NCENT" />
+	<TeamIdListEntry SMTId="NDAK" />
+	<TeamIdListEntry SMTId="NFLA" />
+	<TeamIdListEntry SMTId="NGEO" />
+	<TeamIdListEntry SMTId="NGRNV" />
+	<TeamIdListEntry SMTId="NPARK" />
+	<TeamIdListEntry SMTId="NKENT" />
+	<TeamIdListEntry SMTId="NMICH" />
+	<TeamIdListEntry SMTId="NNMEX" />
+	<TeamIdListEntry SMTId="NLAND" />
+	<TeamIdListEntry SMTId="MWMIZ" />
+	<TeamIdListEntry SMTId="NWNAZ" />
+	<TeamIdListEntry SMTId="NWMIN" />
+	<TeamIdListEntry SMTId="NRWCH" />
+	<TeamIdListEntry SMTId="NDOHI" />
+	<TeamIdListEntry SMTId="NOVSE" />
+	<TeamIdListEntry SMTId="NYACK" />
+	<TeamIdListEntry SMTId="OAK" />
+	<TeamIdListEntry SMTId="OAKCY" />
+	<TeamIdListEntry SMTId="OAKWD" />
+	<TeamIdListEntry SMTId="OBRLN" />
+	<TeamIdListEntry SMTId="OCCID" />
+	<TeamIdListEntry SMTId="OGLTH" />
+	<TeamIdListEntry SMTId="OHIOC" />
+	<TeamIdListEntry SMTId="OHIOD" />
+	<TeamIdListEntry SMTId="OHION" />
+	<TeamIdListEntry SMTId="OHVAL" />
+	<TeamIdListEntry SMTId="OHWES" />
+	<TeamIdListEntry SMTId="OKBAP" />
+	<TeamIdListEntry SMTId="OKWES" />
+	<TeamIdListEntry SMTId="OLDWS" />
+	<TeamIdListEntry SMTId="OLIVT" />
+	<TeamIdListEntry SMTId="OLVNZ" />
+	<TeamIdListEntry SMTId="ORAL" />
+	<TeamIdListEntry SMTId="ORTCH" />
+	<TeamIdListEntry SMTId="OTTKS" />
+	<TeamIdListEntry SMTId="OTTRB" />
+	<TeamIdListEntry SMTId="OUBAP" />
+	<TeamIdListEntry SMTId="OZARK" />
+	<TeamIdListEntry SMTId="PRBAY" />
+	<TeamIdListEntry SMTId="PRMAY" />
+	<TeamIdListEntry SMTId="PACE" />
+	<TeamIdListEntry SMTId="PAC" />
+	<TeamIdListEntry SMTId="PACOR" />
+	<TeamIdListEntry SMTId="PAINE" />
+	<TeamIdListEntry SMTId="PBATL" />
+	<TeamIdListEntry SMTId="PATT" />
+	<TeamIdListEntry SMTId="PQUIN" />
+	<TeamIdListEntry SMTId="PSUBE" />
+	<TeamIdListEntry SMTId="PEPP" />
+	<TeamIdListEntry SMTId="PERU" />
+	<TeamIdListEntry SMTId="PFEIF" />
+	<TeamIdListEntry SMTId="PHILU" />
+	<TeamIdListEntry SMTId="PHSMI" />
+	<TeamIdListEntry SMTId="PHILL" />
+	<TeamIdListEntry SMTId="PIED" />
+	<TeamIdListEntry SMTId="PKVIL" />
+	<TeamIdListEntry SMTId="PTBRD" />
+	<TeamIdListEntry SMTId="PTJHN" />
+	<TeamIdListEntry SMTId="PITST" />
+	<TeamIdListEntry SMTId="PLATT" />
+	<TeamIdListEntry SMTId="PLYMT" />
+	<TeamIdListEntry SMTId="PTPRK" />
+	<TeamIdListEntry SMTId="POLY" />
+	<TeamIdListEntry SMTId="POMON" />
+	<TeamIdListEntry SMTId="PORT" />
+	<TeamIdListEntry SMTId="PRATT" />
+	<TeamIdListEntry SMTId="PRESB" />
+	<TeamIdListEntry SMTId="PROV" />
+	<TeamIdListEntry SMTId="PUGET" />
+	<TeamIdListEntry SMTId="PURCH" />
+	<TeamIdListEntry SMTId="PURD" />
+	<TeamIdListEntry SMTId="QUNNC" />
+	<TeamIdListEntry SMTId="QUNNY" />
+	<TeamIdListEntry SMTId="QUINC" />
+	<TeamIdListEntry SMTId="QUINN" />
+	<TeamIdListEntry SMTId="RADFD" />
+	<TeamIdListEntry SMTId="RAND" />
+	<TeamIdListEntry SMTId="REDLN" />
+	<TeamIdListEntry SMTId="RGCOL" />
+	<TeamIdListEntry SMTId="REGIS" />
+	<TeamIdListEntry SMTId="REIN" />
+	<TeamIdListEntry SMTId="RHEMA" />
+	<TeamIdListEntry SMTId="RICOL" />
+	<TeamIdListEntry SMTId="RHOD" />
+	<TeamIdListEntry SMTId="RIDER" />
+	<TeamIdListEntry SMTId="RIOGR" />
+	<TeamIdListEntry SMTId="RIPON" />
+	<TeamIdListEntry SMTId="ROAN" />
+	<TeamIdListEntry SMTId="RBMIL" />
+	<TeamIdListEntry SMTId="ROCH" />
+	<TeamIdListEntry SMTId="ROCHC" />
+	<TeamIdListEntry SMTId="RIT" />
+	<TeamIdListEntry SMTId="ROCKF" />
+	<TeamIdListEntry SMTId="ROCKH" />
+	<TeamIdListEntry SMTId="RKYMT" />
+	<TeamIdListEntry SMTId="RGRST" />
+	<TeamIdListEntry SMTId="ROLNS" />
+	<TeamIdListEntry SMTId="ROSE" />
+	<TeamIdListEntry SMTId="ROWAN" />
+	<TeamIdListEntry SMTId="RUST" />
+	<TeamIdListEntry SMTId="SAGVL" />
+	<TeamIdListEntry SMTId="STAMB" />
+	<TeamIdListEntry SMTId="STAND" />
+	<TeamIdListEntry SMTId="SANSL" />
+	<TeamIdListEntry SMTId="STBON" />
+	<TeamIdListEntry SMTId="STCLD" />
+	<TeamIdListEntry SMTId="STEDW" />
+	<TeamIdListEntry SMTId="SFILL" />
+	<TeamIdListEntry SMTId="SFIND" />
+	<TeamIdListEntry SMTId="SFNY" />
+	<TeamIdListEntry SMTId="STGRG" />
+	<TeamIdListEntry SMTId="SJFIS" />
+	<TeamIdListEntry SMTId="SJMIN" />
+	<TeamIdListEntry SMTId="SJU" />
+	<TeamIdListEntry SMTId="SJOVT" />
+	<TeamIdListEntry SMTId="SJME" />
+	<TeamIdListEntry SMTId="SJIND" />
+	<TeamIdListEntry SMTId="STLAW" />
+	<TeamIdListEntry SMTId="STLEO" />
+	<TeamIdListEntry SMTId="STL" />
+	<TeamIdListEntry SMTId="STMRT" />
+	<TeamIdListEntry SMTId="STMCA" />
+	<TeamIdListEntry SMTId="STMMD" />
+	<TeamIdListEntry SMTId="STMMN" />
+	<TeamIdListEntry SMTId="STMTX" />
+	<TeamIdListEntry SMTId="STMKE" />
+	<TeamIdListEntry SMTId="STNRB" />
+	<TeamIdListEntry SMTId="STTFL" />
+	<TeamIdListEntry SMTId="STTMN" />
+	<TeamIdListEntry SMTId="STVNC" />
+	<TeamIdListEntry SMTId="STXAV" />
+	<TeamIdListEntry SMTId="SALEM" />
+	<TeamIdListEntry SMTId="SALIS" />
+	<TeamIdListEntry SMTId="SALVE" />
+	<TeamIdListEntry SMTId="SDCHR" />
+	<TeamIdListEntry SMTId="SFRAN" />
+	<TeamIdListEntry SMTId="SFRST" />
+	<TeamIdListEntry SMTId="SCLAR" />
+	<TeamIdListEntry SMTId="SCHRE" />
+	<TeamIdListEntry SMTId="SCRNT" />
+	<TeamIdListEntry SMTId="SEAPC" />
+	<TeamIdListEntry SMTId="SEA" />
+	<TeamIdListEntry SMTId="SELMA" />
+	<TeamIdListEntry SMTId="HALL" />
+	<TeamIdListEntry SMTId="SEWAN" />
+	<TeamIdListEntry SMTId="SHAWN" />
+	<TeamIdListEntry SMTId="SHEN" />
+	<TeamIdListEntry SMTId="SHEP" />
+	<TeamIdListEntry SMTId="SHIP" />
+	<TeamIdListEntry SMTId="SHORT" />
+	<TeamIdListEntry SMTId="SIENA" />
+	<TeamIdListEntry SMTId="SHEIG" />
+	<TeamIdListEntry SMTId="SFRAS" />
+	<TeamIdListEntry SMTId="SIMP" />
+	<TeamIdListEntry SMTId="SIMPU" />
+	<TeamIdListEntry SMTId="SKID" />
+	<TeamIdListEntry SMTId="SLIP" />
+	<TeamIdListEntry SMTId="SONOM" />
+	<TeamIdListEntry SMTId="SCAIK" />
+	<TeamIdListEntry SMTId="SEUNV" />
+	<TeamIdListEntry SMTId="SEOKL" />
+	<TeamIdListEntry SMTId="SOARK" />
+	<TeamIdListEntry SMTId="SCONN" />
+	<TeamIdListEntry SMTId="SIND" />
+	<TeamIdListEntry SMTId="SMAIN" />
+	<TeamIdListEntry SMTId="SNHAM" />
+	<TeamIdListEntry SMTId="SOREG" />
+	<TeamIdListEntry SMTId="STECH" />
+	<TeamIdListEntry SMTId="SVIRG" />
+	<TeamIdListEntry SMTId="SVERM" />
+	<TeamIdListEntry SMTId="SWESL" />
+	<TeamIdListEntry SMTId="SNORL" />
+	<TeamIdListEntry SMTId="SWBAP" />
+	<TeamIdListEntry SMTId="SWST" />
+	<TeamIdListEntry SMTId="SWUTX" />
+	<TeamIdListEntry SMTId="SWOKL" />
+	<TeamIdListEntry SMTId="SPALD" />
+	<TeamIdListEntry SMTId="SPARB" />
+	<TeamIdListEntry SMTId="SHILL" />
+	<TeamIdListEntry SMTId="SPRNG" />
+	<TeamIdListEntry SMTId="STISL" />
+	<TeamIdListEntry SMTId="STET" />
+	<TeamIdListEntry SMTId="STEV" />
+	<TeamIdListEntry SMTId="STEVE" />
+	<TeamIdListEntry SMTId="STNHL" />
+	<TeamIdListEntry SMTId="SUFF" />
+	<TeamIdListEntry SMTId="SULRS" />
+	<TeamIdListEntry SMTId="SGENE" />
+	<TeamIdListEntry SMTId="SPOTS" />
+	<TeamIdListEntry SMTId="SUSQ" />
+	<TeamIdListEntry SMTId="SWART" />
+	<TeamIdListEntry SMTId="SWADV" />
+	<TeamIdListEntry SMTId="SWASS" />
+	<TeamIdListEntry SMTId="TABOR" />
+	<TeamIdListEntry SMTId="TALLD" />
+	<TeamIdListEntry SMTId="TAM" />
+	<TeamIdListEntry SMTId="TAY" />
+	<TeamIdListEntry SMTId="TMTMP" />
+	<TeamIdListEntry SMTId="TMWES" />
+	<TeamIdListEntry SMTId="TXINT" />
+	<TeamIdListEntry SMTId="TXAMC" />
+	<TeamIdListEntry SMTId="TXACP" />
+	<TeamIdListEntry SMTId="TXAKG" />
+	<TeamIdListEntry SMTId="TXLTH" />
+	<TeamIdListEntry SMTId="TXPRM" />
+	<TeamIdListEntry SMTId="TXWES" />
+	<TeamIdListEntry SMTId="TXARL" />
+	<TeamIdListEntry SMTId="TXDAL" />
+	<TeamIdListEntry SMTId="TXPAN" />
+	<TeamIdListEntry SMTId="TXSAN" />
+	<TeamIdListEntry SMTId="TXTYL" />
+	<TeamIdListEntry SMTId="THIEL" />
+	<TeamIdListEntry SMTId="THOM" />
+	<TeamIdListEntry SMTId="TMORE" />
+	<TeamIdListEntry SMTId="TIFF" />
+	<TeamIdListEntry SMTId="TCFAL" />
+	<TeamIdListEntry SMTId="TOUG" />
+	<TeamIdListEntry SMTId="SYLV" />
+	<TeamIdListEntry SMTId="TREV" />
+	<TeamIdListEntry SMTId="TRNCT" />
+	<TeamIdListEntry SMTId="TRNIL" />
+	<TeamIdListEntry SMTId="TRTEX" />
+	<TeamIdListEntry SMTId="TRIN" />
+	<TeamIdListEntry SMTId="TRINT" />
+	<TeamIdListEntry SMTId="TRUM" />
+	<TeamIdListEntry SMTId="TUFTS" />
+	<TeamIdListEntry SMTId="TUSK" />
+	<TeamIdListEntry SMTId="NENGL" />
+	<TeamIdListEntry SMTId="ARKLR" />
+	<TeamIdListEntry SMTId="UCIRV" />
+	<TeamIdListEntry SMTId="UCRIV" />
+	<TeamIdListEntry SMTId="UCSB" />
+	<TeamIdListEntry SMTId="SNTCZ" />
+	<TeamIdListEntry SMTId="UMBC" />
+	<TeamIdListEntry SMTId="UMKC" />
+	<TeamIdListEntry SMTId="NCASH" />
+	<TeamIdListEntry SMTId="NCGRE" />
+	<TeamIdListEntry SMTId="NCPEM" />
+	<TeamIdListEntry SMTId="NCWIL" />
+	<TeamIdListEntry SMTId="UNIKY" />
+	<TeamIdListEntry SMTId="UNINY" />
+	<TeamIdListEntry SMTId="UNITN" />
+	<TeamIdListEntry SMTId="AKMNT" />
+	<TeamIdListEntry SMTId="UPIA" />
+	<TeamIdListEntry SMTId="URB" />
+	<TeamIdListEntry SMTId="URS" />
+	<TeamIdListEntry SMTId="UTVAL" />
+	<TeamIdListEntry SMTId="VALCY" />
+	<TeamIdListEntry SMTId="VANG" />
+	<TeamIdListEntry SMTId="VASSR" />
+	<TeamIdListEntry SMTId="VERM" />
+	<TeamIdListEntry SMTId="VACOM" />
+	<TeamIdListEntry SMTId="VAINT" />
+	<TeamIdListEntry SMTId="VRGST" />
+	<TeamIdListEntry SMTId="VRUNI" />
+	<TeamIdListEntry SMTId="VAWES" />
+	<TeamIdListEntry SMTId="VRGWS" />
+	<TeamIdListEntry SMTId="VTRBO" />
+	<TeamIdListEntry SMTId="VOOR" />
+	<TeamIdListEntry SMTId="WAB" />
+	<TeamIdListEntry SMTId="WALDF" />
+	<TeamIdListEntry SMTId="WALSH" />
+	<TeamIdListEntry SMTId="WARPC" />
+	<TeamIdListEntry SMTId="WARWL" />
+	<TeamIdListEntry SMTId="WARTB" />
+	<TeamIdListEntry SMTId="WSHJF" />
+	<TeamIdListEntry SMTId="WALEE" />
+	<TeamIdListEntry SMTId="WASMD" />
+	<TeamIdListEntry SMTId="WASMO" />
+	<TeamIdListEntry SMTId="WAY" />
+	<TeamIdListEntry SMTId="WYSMI" />
+	<TeamIdListEntry SMTId="WYSNE" />
+	<TeamIdListEntry SMTId="WYSBG" />
+	<TeamIdListEntry SMTId="WBSTR" />
+	<TeamIdListEntry SMTId="WESL" />
+	<TeamIdListEntry SMTId="WSLYN" />
+	<TeamIdListEntry SMTId="WALAB" />
+	<TeamIdListEntry SMTId="WFLA" />
+	<TeamIdListEntry SMTId="WGEOR" />
+	<TeamIdListEntry SMTId="WLIB" />
+	<TeamIdListEntry SMTId="WTXAM" />
+	<TeamIdListEntry SMTId="WVAST" />
+	<TeamIdListEntry SMTId="WVTCH" />
+	<TeamIdListEntry SMTId="WVWES" />
+	<TeamIdListEntry SMTId="WBAPT" />
+	<TeamIdListEntry SMTId="WCONN" />
+	<TeamIdListEntry SMTId="WNENG" />
+	<TeamIdListEntry SMTId="WOREG" />
+	<TeamIdListEntry SMTId="WWASH" />
+	<TeamIdListEntry SMTId="WFLD" />
+	<TeamIdListEntry SMTId="WMINM" />
+	<TeamIdListEntry SMTId="WESMT" />
+	<TeamIdListEntry SMTId="WHEAT" />
+	<TeamIdListEntry SMTId="WHEEL" />
+	<TeamIdListEntry SMTId="WHIT" />
+	<TeamIdListEntry SMTId="WTWRT" />
+	<TeamIdListEntry SMTId="WCHST" />
+	<TeamIdListEntry SMTId="WID" />
+	<TeamIdListEntry SMTId="WILB" />
+	<TeamIdListEntry SMTId="WILEY" />
+	<TeamIdListEntry SMTId="WILKS" />
+	<TeamIdListEntry SMTId="WILMT" />
+	<TeamIdListEntry SMTId="WLCAR" />
+	<TeamIdListEntry SMTId="WJESS" />
+	<TeamIdListEntry SMTId="WILJW" />
+	<TeamIdListEntry SMTId="WLPAT" />
+	<TeamIdListEntry SMTId="WPENN" />
+	<TeamIdListEntry SMTId="WILLW" />
+	<TeamIdListEntry SMTId="WILMS" />
+	<TeamIdListEntry SMTId="WLBAP" />
+	<TeamIdListEntry SMTId="WLMDE" />
+	<TeamIdListEntry SMTId="WLMOH" />
+	<TeamIdListEntry SMTId="WING" />
+	<TeamIdListEntry SMTId="WINON" />
+	<TeamIdListEntry SMTId="WNTHP" />
+	<TeamIdListEntry SMTId="WLUTH" />
+	<TeamIdListEntry SMTId="WIEAU" />
+	<TeamIdListEntry SMTId="WISGB" />
+	<TeamIdListEntry SMTId="WILAC" />
+	<TeamIdListEntry SMTId="WIOSH" />
+	<TeamIdListEntry SMTId="WIPRK" />
+	<TeamIdListEntry SMTId="WIPLT" />
+	<TeamIdListEntry SMTId="WIRIV" />
+	<TeamIdListEntry SMTId="WISTV" />
+	<TeamIdListEntry SMTId="WISTO" />
+	<TeamIdListEntry SMTId="WIWHT" />
+	<TeamIdListEntry SMTId="WITT" />
+	<TeamIdListEntry SMTId="WOOS" />
+	<TeamIdListEntry SMTId="WRCST" />
+	<TeamIdListEntry SMTId="WRGHT" />
+	<TeamIdListEntry SMTId="XAV" />
+	<TeamIdListEntry SMTId="XAVLA" />
+	<TeamIdListEntry SMTId="None SMTId:643" />
+	<TeamIdListEntry SMTId="None SMTId:468" />
+	<TeamIdListEntry SMTId="None SMTId:626" />
+	<TeamIdListEntry SMTId="None SMTId:594" />
+	<TeamIdListEntry SMTId="None SMTId:498" />
+	<TeamIdListEntry SMTId="None SMTId:461" />
+	<TeamIdListEntry SMTId="None SMTId:478" />
+	<TeamIdListEntry SMTId="None SMTId:560" />
+	<TeamIdListEntry SMTId="None SMTId:625" />
+	<TeamIdListEntry SMTId="None SMTId:558" />
+	<TeamIdListEntry SMTId="None SMTId:562" />
+	<TeamIdListEntry SMTId="None SMTId:534" />
+	<TeamIdListEntry SMTId="None SMTId:603" />
+	<TeamIdListEntry SMTId="None SMTId:502" />
+	<TeamIdListEntry SMTId="None SMTId:592" />
+	<TeamIdListEntry SMTId="None SMTId:623" />
+	<TeamIdListEntry SMTId="None SMTId:504" />
+	<TeamIdListEntry SMTId="None SMTId:477" />
+	<TeamIdListEntry SMTId="None SMTId:591" />
+	<TeamIdListEntry SMTId="None SMTId:764" />
+	<TeamIdListEntry SMTId="None SMTId:490" />
+	<TeamIdListEntry SMTId="None SMTId:537" />
+	<TeamIdListEntry SMTId="None SMTId:581" />
+	<TeamIdListEntry SMTId="None SMTId:634" />
+	<TeamIdListEntry SMTId="None SMTId:552" />
+	<TeamIdListEntry SMTId="None SMTId:538" />
+	<TeamIdListEntry SMTId="None SMTId:555" />
+	<TeamIdListEntry SMTId="None SMTId:466" />
+	<TeamIdListEntry SMTId="None SMTId:511" />
+	<TeamIdListEntry SMTId="None SMTId:496" />
+	<TeamIdListEntry SMTId="None SMTId:745" />
+	<TeamIdListEntry SMTId="None SMTId:471" />
+	<TeamIdListEntry SMTId="None SMTId:670" />
+	<TeamIdListEntry SMTId="None SMTId:820" />
+	<TeamIdListEntry SMTId="None SMTId:YX1" />
+	<TeamIdListEntry SMTId="None SMTId:483" />
+	<TeamIdListEntry SMTId="None SMTId:635" />
+	<TeamIdListEntry SMTId="None SMTId:710" />
+	<TeamIdListEntry SMTId="None SMTId:763" />
+	<TeamIdListEntry SMTId="None SMTId:709" />
+	<TeamIdListEntry SMTId="None SMTId:530" />
+	<TeamIdListEntry SMTId="None SMTId:587" />
+	<TeamIdListEntry SMTId="None SMTId:475" />
+	<TeamIdListEntry SMTId="None SMTId:491" />
+	<TeamIdListEntry SMTId="None SMTId:542" />
+	<TeamIdListEntry SMTId="None SMTId:557" />
+	<TeamIdListEntry SMTId="None SMTId:571" />
+	<TeamIdListEntry SMTId="None SMTId:579" />
+	<TeamIdListEntry SMTId="None SMTId:569" />
+	<TeamIdListEntry SMTId="None SMTId:668" />
+	<TeamIdListEntry SMTId="None SMTId:617" />
+	<TeamIdListEntry SMTId="None SMTId:576" />
+	<TeamIdListEntry SMTId="None SMTId:624" />
+	<TeamIdListEntry SMTId="None SMTId:464" />
+	<TeamIdListEntry SMTId="None SMTId:453" />
+	<TeamIdListEntry SMTId="None SMTId:630" />
+	<TeamIdListEntry SMTId="None SMTId:533" />
+	<TeamIdListEntry SMTId="None SMTId:777" />
+	<TeamIdListEntry SMTId="None SMTId:565" />
+	<TeamIdListEntry SMTId="None SMTId:622" />
+	<TeamIdListEntry SMTId="None SMTId:636" />
+	<TeamIdListEntry SMTId="None SMTId:465" />
+	<TeamIdListEntry SMTId="None SMTId:664" />
+	<TeamIdListEntry SMTId="None SMTId:522" />
+	<TeamIdListEntry SMTId="None SMTId:518" />
+	<TeamIdListEntry SMTId="None SMTId:521" />
+	<TeamIdListEntry SMTId="None SMTId:574" />
+	<TeamIdListEntry SMTId="None SMTId:615" />
+	<TeamIdListEntry SMTId="None SMTId:575" />
+	<TeamIdListEntry SMTId="None SMTId:612" />
+	<TeamIdListEntry SMTId="None SMTId:609" />
+	<TeamIdListEntry SMTId="None SMTId:568" />
+	<TeamIdListEntry SMTId="None SMTId:517" />
+	<TeamIdListEntry SMTId="None SMTId:618" />
+	<TeamIdListEntry SMTId="None SMTId:V38" />
+	<TeamIdListEntry SMTId="None SMTId:586" />
+	<TeamIdListEntry SMTId="None SMTId:713" />
+	<TeamIdListEntry SMTId="None SMTId:601" />
+	<TeamIdListEntry SMTId="None SMTId:535" />
+	<TeamIdListEntry SMTId="None SMTId:545" />
+	<TeamIdListEntry SMTId="None SMTId:YX5" />
+	<TeamIdListEntry SMTId="None SMTId:YX4" />
+	<TeamIdListEntry SMTId="None SMTId:529" />
+	<TeamIdListEntry SMTId="None SMTId:848" />
+	<TeamIdListEntry SMTId="None SMTId:596" />
+	<TeamIdListEntry SMTId="None SMTId:544" />
+	<TeamIdListEntry SMTId="None SMTId:611" />
+	<TeamIdListEntry SMTId="None SMTId:600" />
+	<TeamIdListEntry SMTId="None SMTId:637" />
+	<TeamIdListEntry SMTId="None SMTId:Y32" />
+	<TeamIdListEntry SMTId="None SMTId:584" />
+	<TeamIdListEntry SMTId="None SMTId:476" />
+	<TeamIdListEntry SMTId="None SMTId:513" />
+	<TeamIdListEntry SMTId="None SMTId:570" />
+	<TeamIdListEntry SMTId="None SMTId:539" />
+	<TeamIdListEntry SMTId="None SMTId:604" />
+	<TeamIdListEntry SMTId="None SMTId:588" />
+	<TeamIdListEntry SMTId="None SMTId:509" />
+	<TeamIdListEntry SMTId="None SMTId:531" />
+	<TeamIdListEntry SMTId="None SMTId:644" />
+	<TeamIdListEntry SMTId="None SMTId:540" />
+	<TeamIdListEntry SMTId="None SMTId:648" />
+	<TeamIdListEntry SMTId="None SMTId:598" />
+	<TeamIdListEntry SMTId="None SMTId:573" />
+	<TeamIdListEntry SMTId="None SMTId:494" />
+	<TeamIdListEntry SMTId="None SMTId:524" />
+	<TeamIdListEntry SMTId="None SMTId:460" />
+	<TeamIdListEntry SMTId="None SMTId:650" />
+	<TeamIdListEntry SMTId="None SMTId:499" />
+	<TeamIdListEntry SMTId="None SMTId:578" />
+	<TeamIdListEntry SMTId="None SMTId:495" />
+	<TeamIdListEntry SMTId="None SMTId:459" />
+	<TeamIdListEntry SMTId="None SMTId:549" />
+	<TeamIdListEntry SMTId="None SMTId:610" />
+	<TeamIdListEntry SMTId="None SMTId:536" />
+	<TeamIdListEntry SMTId="None SMTId:541" />
+	<TeamIdListEntry SMTId="None SMTId:646" />
+	<TeamIdListEntry SMTId="None SMTId:452" />
+	<TeamIdListEntry SMTId="None SMTId:595" />
+	<TeamIdListEntry SMTId="None SMTId:627" />
+	<TeamIdListEntry SMTId="None SMTId:553" />
+	<TeamIdListEntry SMTId="None SMTId:638" />
+	<TeamIdListEntry SMTId="None SMTId:515" />
+	<TeamIdListEntry SMTId="None SMTId:572" />
+	<TeamIdListEntry SMTId="None SMTId:516" />
+	<TeamIdListEntry SMTId="None SMTId:470" />
+	<TeamIdListEntry SMTId="None SMTId:547" />
+	<TeamIdListEntry SMTId="None SMTId:543" />
+	<TeamIdListEntry SMTId="None SMTId:567" />
+	<TeamIdListEntry SMTId="None SMTId:599" />
+	<TeamIdListEntry SMTId="None SMTId:633" />
+	<TeamIdListEntry SMTId="None SMTId:641" />
+	<TeamIdListEntry SMTId="None SMTId:554" />
+	<TeamIdListEntry SMTId="None SMTId:631" />
+	<TeamIdListEntry SMTId="None SMTId:590" />
+	<TeamIdListEntry SMTId="None SMTId:639" />
+	<TeamIdListEntry SMTId="None SMTId:597" />
+	<TeamIdListEntry SMTId="None SMTId:619" />
+	<TeamIdListEntry SMTId="None SMTId:V36" />
+	<TeamIdListEntry SMTId="None SMTId:474" />
+	<TeamIdListEntry SMTId="None SMTId:532" />
+	<TeamIdListEntry SMTId="None SMTId:589" />
+	<TeamIdListEntry SMTId="None SMTId:497" />
+	<TeamIdListEntry SMTId="None SMTId:523" />
+	<TeamIdListEntry SMTId="None SMTId:608" />
+	<TeamIdListEntry SMTId="None SMTId:458" />
+	<TeamIdListEntry SMTId="None SMTId:703" />
+	<TeamIdListEntry SMTId="None SMTId:613" />
+	<TeamIdListEntry SMTId="None SMTId:462" />
+	<TeamIdListEntry SMTId="None SMTId:563" />
+	<TeamIdListEntry SMTId="None SMTId:469" />
+	<TeamIdListEntry SMTId="None SMTId:467" />
+	<TeamIdListEntry SMTId="None SMTId:481" />
+	<TeamIdListEntry SMTId="None SMTId:457" />
+	<TeamIdListEntry SMTId="None SMTId:519" />
+	<TeamIdListEntry SMTId="None SMTId:YX2" />
+	<TeamIdListEntry SMTId="None SMTId:642" />
+	<TeamIdListEntry SMTId="None SMTId:602" />
+	<TeamIdListEntry SMTId="None SMTId:451" />
+	<TeamIdListEntry SMTId="None SMTId:632" />
+	<TeamIdListEntry SMTId="None SMTId:507" />
+	<TeamIdListEntry SMTId="None SMTId:620" />
+	<TeamIdListEntry SMTId="None SMTId:621" />
+	<TeamIdListEntry SMTId="None SMTId:512" />
+	<TeamIdListEntry SMTId="None SMTId:628" />
+	<TeamIdListEntry SMTId="None SMTId:487" />
+	<TeamIdListEntry SMTId="None SMTId:616" />
+	<TeamIdListEntry SMTId="None SMTId:V47" />
+	<TeamIdListEntry SMTId="None SMTId:520" />
+	<TeamIdListEntry SMTId="None SMTId:514" />
+	<TeamIdListEntry SMTId="None SMTId:551" />
+	<TeamIdListEntry SMTId="None SMTId:722" />
+	<TeamIdListEntry SMTId="None SMTId:556" />
+	<TeamIdListEntry SMTId="None SMTId:510" />
+	<TeamIdListEntry SMTId="None SMTId:645" />
+	<TeamIdListEntry SMTId="None SMTId:493" />
+	<TeamIdListEntry SMTId="None SMTId:463" />
+	<TeamIdListEntry SMTId="None SMTId:489" />
+	<TeamIdListEntry SMTId="None SMTId:559" />
+	<TeamIdListEntry SMTId="None SMTId:479" />
+	<TeamIdListEntry SMTId="None SMTId:480" />
+	<TeamIdListEntry SMTId="None SMTId:500" />
+	<TeamIdListEntry SMTId="None SMTId:577" />
+	<TeamIdListEntry SMTId="None SMTId:775" />
+	<TeamIdListEntry SMTId="None SMTId:716" />
+	<TeamIdListEntry SMTId="None SMTId:629" />
+	<TeamIdListEntry SMTId="None SMTId:826" />
+	<TeamIdListEntry SMTId="None SMTId:566" />
+	<TeamIdListEntry SMTId="None SMTId:717" />
+	<TeamIdListEntry SMTId="None SMTId:849" />
+	<TeamIdListEntry SMTId="None SMTId:605" />
+	<TeamIdListEntry SMTId="None SMTId:705" />
+	<TeamIdListEntry SMTId="None SMTId:606" />
+	<TeamIdListEntry SMTId="None SMTId:647" />
+	<TeamIdListEntry SMTId="None SMTId:503" />
+	<TeamIdListEntry SMTId="None SMTId:456" />
+	<TeamIdListEntry SMTId="None SMTId:454" />
+	<TeamIdListEntry SMTId="None SMTId:501" />
+	<TeamIdListEntry SMTId="None SMTId:455" />
+	<TeamIdListEntry SMTId="None SMTId:649" />
+	<TeamIdListEntry SMTId="None SMTId:850" />
+	<TeamIdListEntry SMTId="None SMTId:593" />
+	<TeamIdListEntry SMTId="None SMTId:701" />
+	<TeamIdListEntry SMTId="None SMTId:669" />
+	<TeamIdListEntry SMTId="None SMTId:582" />
+	<TeamIdListEntry SMTId="None SMTId:505" />
+	<TeamIdListEntry SMTId="None SMTId:715" />
+</TeamIdList>
