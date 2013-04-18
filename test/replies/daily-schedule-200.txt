@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DailySchedule LeagueId="NCAAF" Sport="FOOTBALL" Date="2013-09-14">
+  <Game GlobalGameID="123456" LeagueId="NCAAF" AwaySMTId="OSU" HomeSMTId="CAL">
+    <Team AwayHome="A" SMTId="OSU" DisplayName="THEE Ohio State University" City="Columbus" Mascot="Buckeyes" Rank="1" />
+    <Team AwayHome="H" SMTId="CAL" DisplayName="University of California, Berkeley" City="Berkeley" Mascot="Bears" Rank="2" />
+  </Game>
+</DailySchedule>

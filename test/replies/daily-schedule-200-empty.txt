@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DailySchedule LeagueId="NCAABASE" Sport="BASEBALL" Date="2013-04-19" />
