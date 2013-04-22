@@ -1,0 +1,33 @@
+{
+    "asi": false,
+    "expr": true,
+    "loopfunc": true,
+    "curly": false,
+    "evil": true,
+    "white": true,
+    "undef": true,
+    "browser": true,
+    "es5": true,
+    "indent": 2,
+    "predef": [
+        "app",
+        "$",
+        "FormBot",
+        "socket",
+        "confirm",
+        "alert",
+        "require",
+        "__dirname",
+        "process",
+        "exports",
+        "console",
+        "Buffer",
+        "module",
+        "describe",   // Used by mocha
+        "it",	      // Used by mocha
+        "before",     // Used by mocha
+        "beforeEach", // Used by mocha
+        "after",      // Used by mocha
+        "afterEach"   // Used by mocha
+    ]
+}
