@@ -12,7 +12,7 @@ describe('LeagueList', function () {
       smtObject = smt.init('127.0.0.1', 20000);
     });
 
-    it ('should pass error and no result to callback', function (done) {
+    it('should pass error and no result to callback', function (done) {
       smtObject.getLeagueList(function (err, result) {
         err.should.match(/Could not get League List/);
         should.not.exist(result);
@@ -34,7 +34,7 @@ describe('LeagueList', function () {
         .replyWithFile(404, __dirname + '/replies/404.txt');
     });
 
-    it ('should pass no error and a league list as result on 200', function (done) {
+    it('should pass no error and a league list as result on 200', function (done) {
       smtObject.getLeagueList(function (err, result) {
         should.not.exist(err);
         result.should.be.a('object');
@@ -45,7 +45,7 @@ describe('LeagueList', function () {
       });
     });
 
-    it ('should pass error and no result with bad xml', function (done) {
+    it('should pass error and no result with bad xml', function (done) {
       smtObject.getLeagueList(function (err, result) {
         err.should.match(/Parse error/);
         should.not.exist(result);
@@ -53,7 +53,7 @@ describe('LeagueList', function () {
       });
     });
 
-    it ('should pass error and no result on 404', function (done) {
+    it('should pass error and no result on 404', function (done) {
       smtObject.getLeagueList(function (err, result) {
         err.should.match(/HTTP 404/);
         should.not.exist(result);

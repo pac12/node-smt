@@ -12,7 +12,7 @@ describe('TeamIdList', function () {
       smtObject = smt.init('127.0.0.1', 20000);
     });
 
-    it ('should pass error and no result to callback', function (done) {
+    it('should pass error and no result to callback', function (done) {
       smtObject.getTeamIdList({LeagueId: 'NCAAF'}, function (err, result) {
         err.should.match(/Could not get Daily Schedule/);
         should.not.exist(result);
@@ -34,7 +34,7 @@ describe('TeamIdList', function () {
         .replyWithFile(404, __dirname + '/replies/404.txt');
     });
 
-    it ('should pass error and no result to callback when no LeagueId given', function (done) {
+    it('should pass error and no result to callback when no LeagueId given', function (done) {
       smtObject.getTeamIdList({}, function (err, result) {
         err.should.match(/LeagueId is a required parameter/);
         should.not.exist(result);
@@ -42,7 +42,7 @@ describe('TeamIdList', function () {
       });
     });
 
-    it ('should pass no error and a daily schedule as result on 200', function (done) {
+    it('should pass no error and a daily schedule as result on 200', function (done) {
       smtObject.getTeamIdList({LeagueId: 'NCAAF', Date: '2013-09-14', Conference: 'PAC12'}, function (err, result) {
         should.not.exist(err);
         result.should.be.a('object');
@@ -53,7 +53,7 @@ describe('TeamIdList', function () {
       });
     });
 
-    it ('should pass error and no result with bad xml', function (done) {
+    it('should pass error and no result with bad xml', function (done) {
       smtObject.getTeamIdList({LeagueId: 'TEST'}, function (err, result) {
         err.should.match(/Parse error/);
         should.not.exist(result);
@@ -61,7 +61,7 @@ describe('TeamIdList', function () {
       });
     });
 
-    it ('should pass error and no result on 404', function (done) {
+    it('should pass error and no result on 404', function (done) {
       smtObject.getTeamIdList({LeagueId: 'BLAH'}, function (err, result) {
         err.should.match(/HTTP 404/);
         should.not.exist(result);

@@ -12,7 +12,7 @@ describe('GameScores', function () {
       smtObject = smt.init('127.0.0.1', 20000);
     });
 
-    it ('should pass error and no result to callback', function (done) {
+    it('should pass error and no result to callback', function (done) {
       smtObject.getGameScores({LeagueId: 'NCAAF'}, function (err, result) {
         err.should.match(/Could not get Daily Schedule/);
         should.not.exist(result);
@@ -36,7 +36,7 @@ describe('GameScores', function () {
         .replyWithFile(404, __dirname + '/replies/404.txt');
     });
 
-    it ('should pass error and no result to callback when no LeagueId given', function (done) {
+    it('should pass error and no result to callback when no LeagueId given', function (done) {
       smtObject.getTeamIdList({}, function (err, result) {
         err.should.match(/LeagueId is a required parameter/);
         should.not.exist(result);
@@ -44,7 +44,7 @@ describe('GameScores', function () {
       });
     });
 
-    it ('should pass no error and game scores as result on 200', function (done) {
+    it('should pass no error and game scores as result on 200', function (done) {
       smtObject.getGameScores({LeagueId: 'NCAABASE', Date: '2013-09-10', Conference: 'PAC12'}, function (err, result) {
         should.not.exist(err);
         result.should.be.a('object');
@@ -59,7 +59,7 @@ describe('GameScores', function () {
       });
     });
 
-    it ('should pass no error and empty game scores on 200 no events', function (done) {
+    it('should pass no error and empty game scores on 200 no events', function (done) {
       smtObject.getGameScores({LeagueId: 'NCAABASE'}, function (err, result) {
         should.not.exist(err);
         result.should.be.a('object');
@@ -69,7 +69,7 @@ describe('GameScores', function () {
       });
     });
 
-    it ('should pass error and no result with bad xml', function (done) {
+    it('should pass error and no result with bad xml', function (done) {
       smtObject.getGameScores({LeagueId: 'TEST'}, function (err, result) {
         err.should.match(/Parse error/);
         should.not.exist(result);
@@ -77,7 +77,7 @@ describe('GameScores', function () {
       });
     });
 
-    it ('should pass error and no result on 404', function (done) {
+    it('should pass error and no result on 404', function (done) {
       smtObject.getGameScores({LeagueId: 'BLAH'}, function (err, result) {
         err.should.match(/HTTP 404/);
         should.not.exist(result);
