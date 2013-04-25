@@ -35,7 +35,7 @@ describe('TeamIdList', function () {
     });
 
     it('should pass error and no result to callback when no LeagueId given', function (done) {
-      smtObject.getTeamIdList({}, function (err, result) {
+      smtObject.getTeamIdList(null, function (err, result) {
         err.should.match(/LeagueId is a required parameter/);
         should.not.exist(result);
         done();
