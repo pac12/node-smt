@@ -14,7 +14,7 @@ describe('GameScores', function () {
 
     it('should pass error and no result to callback', function (done) {
       smtObject.getGameScores({LeagueId: 'NCAAF'}, function (err, result) {
-        err.should.match(/Could not get Daily Schedule/);
+        err.should.match(/Could not get GameScores/);
         should.not.exist(result);
         done();
       });

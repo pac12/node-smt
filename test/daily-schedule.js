@@ -14,7 +14,7 @@ describe('DailySchedule', function () {
 
     it('should pass error and no result to callback', function (done) {
       smtObject.getDailySchedule({LeagueId: 'NCAAF'}, function (err, result) {
-        err.should.match(/Could not get Daily Schedule/);
+        err.should.match(/Could not get DailySchedule/);
         should.not.exist(result);
         done();
       });

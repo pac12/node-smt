@@ -14,7 +14,7 @@ describe('LeagueList', function () {
 
     it('should pass error and no result to callback', function (done) {
       smtObject.getLeagueList(function (err, result) {
-        err.should.match(/Could not get League List/);
+        err.should.match(/Could not get LeagueList/);
         should.not.exist(result);
         done();
       });
